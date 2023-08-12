@@ -1,19 +1,111 @@
 #EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/all.xml.gz,https://helmerluzo.github.io/RuntimeTV_HL/epg/RuntimeTV.xml.gz,https://helmerluzo.github.io/RakutenTV_HL/epg/RakutenTV.xml.gz,https://i.mjh.nz/SamsungTVPlus/all.xml.gz,https://i.mjh.nz/Plex/all.xml.gz,https://www.tdtchannels.com/epg/TV.xml,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml,https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml,http://tv.onplas.xyz:39001/xmltv.php?username=elwepaman&password=CphvdYcr8A&type=m3u_plus&output"
 
 
-#EXTINF:-1 channel-id="pluto-5f1ac1f1b66c76000790ef27" tvg-id="5f1ac1f1b66c76000790ef27" tvg-chno="200" tvg-logo="https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/colorLogoPNG.png" group-title="Cine" , Pluto TV Cine Estelar
-https://i.mjh.nz/PlutoTV/5f1ac1f1b66c76000790ef27-alt.m3u8
-#EXTINF:-1 channel-id="pluto-5f1ac2591dd8880007bb7d6d" tvg-id="5f1ac2591dd8880007bb7d6d" tvg-chno="201" tvg-logo="https://images.pluto.tv/channels/5f1ac2591dd8880007bb7d6d/colorLogoPNG.png" group-title="Cine" , Pluto TV Cine Acción
-https://i.mjh.nz/PlutoTV/5f1ac2591dd8880007bb7d6d-alt.m3u8
-#EXTINF:-1 channel-id="pluto-6267d4d1fb694f0007a6af0e" tvg-id="6267d4d1fb694f0007a6af0e" tvg-chno="202" tvg-logo="https://images.pluto.tv/channels/6267d4d1fb694f0007a6af0e/colorLogoPNG.png" group-title="Cine" , Pluto TV Horror
-https://i.mjh.nz/PlutoTV/6267d4d1fb694f0007a6af0e-alt.m3u8
-#EXTINF:-1 channel-id="pluto-5f6a38eaa5b68b0007a00e7a" tvg-id="5f6a38eaa5b68b0007a00e7a" tvg-chno="203" tvg-logo="https://images.pluto.tv/channels/5f6a38eaa5b68b0007a00e7a/colorLogoPNG.png" group-title="Cine" , Pluto TV Sci-Fi
-https://i.mjh.nz/PlutoTV/5f6a38eaa5b68b0007a00e7a-alt.m3u8
-#EXTINF:-1 channel-id="pluto-5f1ac8099c49f600076579b2" tvg-id="5f1ac8099c49f600076579b2" tvg-chno="204" tvg-logo="https://images.pluto.tv/channels/5f1ac8099c49f600076579b2/colorLogoPNG.png" group-title="Cine" , Pluto TV Cine Comedia
-https://i.mjh.nz/PlutoTV/5f1ac8099c49f600076579b2-alt.m3u8
-#EXTINF:-1 channel-id="pluto-6385e82900ab2e000768a058" tvg-id="6385e82900ab2e000768a058" tvg-chno="205" tvg-logo="https://images.pluto.tv/channels/6385e82900ab2e000768a058/colorLogoPNG.png" group-title="Cine" , Pluto TV Western
-https://i.mjh.nz/PlutoTV/6385e82900ab2e000768a058-alt.m3u8
-#EXTINF:-1 channel-id="pluto-5f1ac8a87cd38d000745d7cf" tvg-id="5f1ac8a87cd38d000745d7cf" tvg-chno="207" tvg-logo="https://images.pluto.tv/channels/5f1ac8a87cd38d000745d7cf/colorLogoPNG.png" group-title="Cine" , Pluto TV Thrillers
-https://i.mjh.nz/PlutoTV/5f1ac8a87cd38d000745d7cf-alt.m3u8
-#EXTINF:-1 channel-id="pluto-6086d3f420fc8500075f8dbf" tvg-id="6086d3f420fc8500075f8dbf" tvg-chno="212" tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png" group-title="Cine" , Runtime
-https://i.mjh.nz/PlutoTV/6086d3f420fc8500075f8dbf-alt.m3u8
+#EXTINF:-1 tvg-id="La 1 HD" tvg-chno="1" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="TDT" tvg-name="La 1", La 1
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+
+#EXTINF:-1 tvg-id="La 2" tvg-chno="2" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="TDT" tvg-name="La 2", La 2
+https://ztnr.rtve.es/ztnr/1688885.m3u8
+
+#EXTINF:-1 tvg-id="TV3 CAT" tvg-chno="3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TV3CAT.png" group-title="Autonomica" tvg-name="TV3", TV3
+https://directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8
+
+#EXTINF:-1 tvg-id="C33.TV" tvg-chno="4" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/C33.png" group-title="Autonomica" tvg-name="33", 33
+https://directes-tv-cat.ccma.cat/live-origin/c33-super3-hls/master.m3u8
+
+#EXTINF:-1 tvg-id="8tvcat.TV" tvg-chno="8" tvg-logo="https://graph.facebook.com/8tvcat/picture?width=200&height=200" group-title="Autonomica" tvg-name="8 TV",8 TV
+https://mdstrm.com/live-stream-playlist/636bd70b44680408872dbfc6.m3u8
+
+#EXTINF:-1 tvg-chno="10" tvg-logo="https://graph.facebook.com/lhdigital/picture?width=200&height=200" group-title="Autonomica" tvg-name="TV L'Hospitalet",TV L'Hospitalet
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+https://liveingesta318.cdnmedia.tv/tvhospitaletlive/smil:tvhospitalet.smil/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-logo="https://img2.rtve.es/p/61150/logo/?w=200" tvg-chno="24" group-title="TDT" tvg-name="RTVE Somos Cine",RTVE Somos Cine
+https://ztnr.rtve.es/ztnr/6909845.m3u8
+
+#EXTINF:-1 tvg-id="TRECE" tvg-chno="28" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/13TV.png" group-title="TDT" tvg-name="13 tv",13 TV
+https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Intereconomia TV" tvg-chno="29" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/INTECO.png" group-title="TDT" tvg-name="El toro",El Toro
+https://streaming011.gestec-video.com/hls/eltoro_bal.m3u8
+
+#EXTINF:-1 tvg-id="Clan" tvg-chno="25" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CLANTV.png" group-title="Kids" tvg-name="Clan.",Clan
+https://ztnr.rtve.es/ztnr/5466990.m3u8
+
+#EXTINF:-1 tvg-id="La1_CAT.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Autonomica" tvg-name="La 1 Catalunya",La 1 Catalunya
+https://ztnr.rtve.es/ztnr/3293681.m3u8
+
+#EXTINF:-1 tvg-id="La2_CAT.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Autonomica" tvg-name="La 2 Catalunya",La 2 Catalunya
+https://ztnr.rtve.es/ztnr/3987218.m3u8
+
+#EXTINF:-1 tvg-id="CANAL SUR A." tvg-chno="30" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ANTV.png" group-title="Autonomica" tvg-name="Canal Sur Andalucía",Canal Sur
+https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CANAL SUR 2 HD" tvg-chno="" tvg-name="CANAL SUR 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ANTV.png" group-title="Autonomica",Canal Sur 2
+https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CMM" tvg-chno="32" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CASMAN.png" group-title="Autonomica" tvg-name="Castilla-La Mancha Media",Castilla-La Mancha Media
+https://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4ycl/format/applehttp/.m3u8
+
+#EXTINF:-1 tvg-id="Telemadrid" tvg-chno="33" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TELMAD.png" group-title="Autonomica" tvg-name="Telemadrid",Telemadrid
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
+
+#EXTINF:-1 tvg-id="EXTREMADURA" tvg-chno="34" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/EXTRE.png" group-title="Autonomica" tvg-name="Canal Extremadura",Canal Extremadura
+https://cdnlive.codev8.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-id="Sol Música" tvg-chno="87" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SOLMUS.png" group-title="Música" tvg-name="Sol.",Sol Musica
+https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="ETBSAT.TV" tvg-chno="35" tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200" group-title="Autonomica" tvg-name="EITB Basque",EITB Basque
+https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
+
+#EXTINF:-1 tvg-id="24 HORAS" tvg-chno="36" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="Noticias" tvg-name="24h", 24h
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+
+#EXTINF:-1 tvg-id="324.TV" tvg-chno="37" tvg-logo="https://graph.facebook.com/324cat/picture?width=200&height=200" group-title="Noticias" tvg-name="324", 3/24
+https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
+
+#EXTINF:-1 tvg-chno="38" tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200" group-title="Noticias" tvg-name="Euronews", Euronews
+https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBC1400001L8" tvg-id="ESBC1400001L8" tvg-chno="39" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/96/ESBC1400001L8_20220426T161624.png" group-title="Noticias", El Confidencial
+https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8?stoken=samsung.zhqJK9905&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:-1 channel-id="samsung-ESBC39000033J" tvg-id="ESBC39000033J" tvg-chno="40" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/ESBC39000033J_20221026T010920.png" group-title="Noticias", El País
+https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-id="Negocios.TV" tvg-chno="41" tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" group-title="Noticias" tvg-name="Negocios TV", Negocios TV
+https://streaming013.gestec-video.com/hls/negociostv.m3u8
+
+#EXTINF:-1 tvg-id=="I235.64230.schedulesdirect.org" tvg-name="I235.64230.schedulesdirect.org" tvg-chno="44" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Noticias", DW ESPAÑOL
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-id="CGTNEspanol.cn" tvg-chno="45" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/800px-CGTN.svg.png" group-title="Noticias", CGTN ESPAÑOL
+http://livees.cgtn.com/1000e/prog_index.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBD190000137" tvg-id="ESBD190000137" tvg-chno="4315" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD190000137_20230614T005931SQUARE.png_20230614005932.png" group-title="Noticias" , CNN FAST
+https://dxfcdu0nbk5gp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qrbspx9wrgvoc/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-id="TELEDEPORTE" tvg-chno="47" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" group-title="Deportes" tvg-name="Teledeporte",Teledeporte
+https://ztnr.rtve.es/ztnr/1712295.m3u8
+
+#EXTINF:-1 tvg-id="GOL HD" tvg-chno="48" tvg-logo="https://i.ibb.co/RHwjKrX/gol.gif" group-title="Deportes" tag-name="Gol TV", Gol TV
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117131
+
+#EXTINF:-1 tvg-id="Esport 3" tvg-chno="49" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP3.png" group-title="Deportes" tvg-name="Esport 3",Esport 3
+https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8
+
+#EXTINF:-1 tvg-id="R. MADRID TV" tvg-chno="51" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/REALM.png" group-title="Deportes" tvg-name="R. Madrid",Real Madrid
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+
+#EXTINF:-1 tvg-id="Sol Música" tvg-chno="87" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SOLMUS.png" group-title="Música" tvg-name="Sol.",Sol Musica
+https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/NASA/picture?width=200&height=200" group-title="Entretenimiento" tvg-name="NASA TV Public",NASA TV Public
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_Hd2WYs49wYCBMAphVpvvpBzd-EJFU8XFQgccPIw=s200" group-title="Estilo vida" tvg-name="¡HOLA! Play",¡HOLA! Play
+https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_HolaPlay/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/FTV/picture?width=200&height=200" group-title="Estilo vida" tvg-name="Fashion TV",Fashion TV
+https://fashs043.cloudycdn.services/scte/pg18/playlist.m3u8
+
