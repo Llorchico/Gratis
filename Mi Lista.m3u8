@@ -88,9 +88,6 @@ https://dxfcdu0nbk5gp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-id="TELEDEPORTE" tvg-chno="47" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" group-title="Deportes" tvg-name="Teledeporte",Teledeporte
 https://ztnr.rtve.es/ztnr/1712295.m3u8
 
-#EXTINF:-1 tvg-id="GOL HD" tvg-chno="48" tvg-logo="https://i.ibb.co/RHwjKrX/gol.gif" group-title="Deportes" tag-name="Gol TV", Gol TV
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117131
-
 #EXTINF:-1 tvg-id="Esport 3" tvg-chno="49" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP3.png" group-title="Deportes" tvg-name="Esport 3",Esport 3
 https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8
 
