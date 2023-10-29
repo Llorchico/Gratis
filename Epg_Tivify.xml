@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Televisió L'Hospitalet">
+    <display-name lang="es">Televisió L'Hospitalet</display-name>
+    <url>http://www.tivify.tv</url>
+  </channel>
+  <channel id="Inglés Total">
+    <display-name lang="es">Inglés Total</display-name>
+    <icon src="https://media.tvup.cloud/canales/color_lg_628ce71965774400228da9ae.png" />
+    <url>http://www.tivify.tv</url>
+  </channel>
+  <channel id="Sin Filtros">
+    <display-name lang="es">Sin Filtros</display-name>
+    <icon src="https://media.tvup.cloud/canales/color_lg_628cf62c65774400228dca04.png" />
+    <url>http://www.tivify.tv</url>
+  </channel>
+  <channel id="ITA - Principiante">
+    <display-name lang="es">ITA - Principiante</display-name>
+    <icon src="https://media.tvup.cloud/canales/color_lg_628ced78865c19002327fcb2.png" />
+    <url>http://www.tivify.tv</url>
+  </channel>
+  <channel id="ITA - Intermedio">
+    <display-name lang="es">ITA - Intermedio</display-name>
+    <icon src="https://media.tvup.cloud/canales/color_lg_628cef295233d0002213a77a.png" />
+    <url>http://www.tivify.tv</url>
+  </channel>
+  <channel id="ITA - Avanzado">
+    <display-name lang="es">ITA - Avanzado</display-name>
+    <icon src="https://media.tvup.cloud/canales/color_lg_628cf020a435f6001b3a903a.png" />
+    <url>http://www.tivify.tv</url>
+  </channel>
+  <channel id="Clipset TV">
+    <display-name lang="es">Clipset TV</display-name>
+    <icon src="https://media.tvup.cloud/canales/color_lg_64342fe118d979001c16e4f9.png" />
+    <url>http://www.tivify.tv</url>
+  </channel>
+  <channel id="Oficios perdidos">
+    <display-name lang="es">Oficios perdidos</display-name>
+    <icon src="https://media.tvup.cloud/canales/color_lg_64760bc966328d12f0750012.png" />
+    <url>http://www.tivify.tv</url>
+  </channel>
+</tv>
