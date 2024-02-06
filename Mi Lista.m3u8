@@ -94,21 +94,11 @@ https://ztnr.rtve.es/ztnr/6909845.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" group-title="Cine" tvg-name="Atresplayer Multicine",Atresplayer Multicine
 https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc.m3u8
 
-#EXTINF:-1 tvg-id="TELEDEPORTE" tvg-chno="49" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" group-title="Deportes" tvg-name="Teledeporte", Teledeporte
-https://ztnr.rtve.es/ztnr/1712295.m3u8
-
-#EXTINF:-1 tvg-id="Esport 3" tvg-chno="51" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP3.png" group-title="Autonomica" tvg-name="Esport 3", Esport 3
-https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8
-
-#EXTINF:-1 tvg-id="Real Madrid TV" tvg-chno="53" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/REALM.png" group-title="Deportes Futbol" tvg-name="R. Madrid", Real Madrid
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/MundoNautica/picture?width=200&height=200" group-title="Deportes Agua" tvg-name="Mundo Nautica",Mundo Nautica
-#EXTVLCOPT:http-referrer=https://player.streamingconnect.com/
-https://cloud.fastchannel.es/mic/manifiest/hls/mundonautica/mundonautica.m3u8
-
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/RockFM/picture?width=200&height=200" group-title="Entretenimiento" tvg-name="Rock FM",Rock FM
 https://hls-directo03-cope-stream.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 tvg-id="65254e8d81f9420008342cee" tvg-name="La fiebre del Jade" tvg-logo="https://images.pluto.tv/channels/65254e8d81f9420008342cee/colorLogoPNG.png" group-title="Entretenimiento" tvg-chno="38", La fiebre del Jade
+https://stitcher.pluto.tv/stitch/hls/channel/65254e8d81f9420008342cee/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5ff84d7f-c515-11ee-bd5d-d67b59b14090
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Entretenimiento" tvg-name="RTVE Cuéntame",RTVE Cuéntame
 https://ztnr.rtve.es/ztnr/6909843.m3u8
@@ -152,4 +142,17 @@ https://cloudvideo.servers10.com:8081/8136/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/StzGrupo/picture?width=200&height=200" group-title="Musicales" tvg-name="STZ Telebista España",STZ Telebista España
 #EXTVLCOPT:http-referrer=https://stztelebista.com
+
+#EXTINF:-1 tvg-id="TELEDEPORTE" tvg-chno="49" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" group-title="Deportes" tvg-name="Teledeporte", Teledeporte
+https://ztnr.rtve.es/ztnr/1712295.m3u8
+
+#EXTINF:-1 tvg-id="Esport 3" tvg-chno="51" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP3.png" group-title="Autonomica" tvg-name="Esport 3", Esport 3
+https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8
+
+#EXTINF:-1 tvg-id="Real Madrid TV" tvg-chno="53" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/REALM.png" group-title="Deportes Futbol" tvg-name="R. Madrid", Real Madrid
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/MundoNautica/picture?width=200&height=200" group-title="Deportes Agua" tvg-name="Mundo Nautica",Mundo Nautica
+#EXTVLCOPT:http-referrer=https://player.streamingconnect.com/
+https://cloud.fastchannel.es/mic/manifiest/hls/mundonautica/mundonautica.m3u8
 
