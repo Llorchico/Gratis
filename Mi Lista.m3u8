@@ -168,9 +168,50 @@ https://stitcher.pluto.tv/stitch/hls/channel/60c343007bcabe0007242aa6/master.m3u
 #EXTINF:-1 tvg-id="5f28009b150b2500077766b8" tvg-name="Vaya semanita" tvg-logo="https://images.pluto.tv/channels/5f28009b150b2500077766b8/colorLogoPNG.png" group-title="Series 24/7" tvg-chno="356", Vaya semanita
 https://stitcher.pluto.tv/stitch/hls/channel/5f28009b150b2500077766b8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=50614198-c989-11ee-b390-cae9453c629f
 
-#EXTINF:-1 tvg-id="5f1acd36779de70007a680d1" tvg-name="Curro Jiménez" tvg-logo="https://images.pluto.tv/channels/5f1acd36779de70007a680d1/colorLogoPNG.png" group-title="Made in Spain" tvg-chno="354", Curro Jiménez
+#EXTINF:-1 tvg-id="5f1acd36779de70007a680d1" tvg-name="Curro Jiménez" tvg-logo="https://images.pluto.tv/channels/5f1acd36779de70007a680d1/colorLogoPNG.png" group-title="Series Retro 24/7" tvg-chno="354", Curro Jiménez
 https://stitcher.pluto.tv/stitch/hls/channel/5f1acd36779de70007a680d1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=50614198-c989-11ee-b390-cae9453c629f
 
+#EXTINF:-1 tvg-id="6245c2a5eec07b0007249fc8" tvg-name="Sensación de Vivir (90210)" tvg-logo="https://images.pluto.tv/channels/6245c2a5eec07b0007249fc8/colorLogoPNG.png" group-title="Series Retro 24/7" tvg-chno="102", Sensación de Vivir (90210)
+https://stitcher.pluto.tv/stitch/hls/channel/6245c2a5eec07b0007249fc8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=50614198-c989-11ee-b390-cae9453c629f
 
+#EXTINF:-1 tvg-id="6245c03922d9d4000760d205" tvg-name="Melrose Place" tvg-logo="https://images.pluto.tv/channels/6245c03922d9d4000760d205/colorLogoPNG.png" group-title="Series Retro 24/7" tvg-chno="103", Melrose Place
+https://stitcher.pluto.tv/stitch/hls/channel/6245c03922d9d4000760d205/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=50614198-c989-11ee-b390-cae9453c629f
 
+#EXTINF:-1 tvg-id="60d3583ef310610007fb02b1" tvg-name="Euronews" tvg-logo="https://images.pluto.tv/channels/60d3583ef310610007fb02b1/colorLogoPNG.png" group-title="Noticias" tvg-chno="650", Euronews
+https://stitcher.pluto.tv/stitch/hls/channel/60d3583ef310610007fb02b1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=50614198-c989-11ee-b390-cae9453c629f
 
+#EXTINF:-1 tvg-id="6076cd1df8576d0007c82193" tvg-name="VH1 Classics" tvg-logo="https://images.pluto.tv/channels/6076cd1df8576d0007c82193/colorLogoPNG.png" group-title="Música" tvg-chno="600", VH1 Classics
+https://stitcher.pluto.tv/stitch/hls/channel/6076cd1df8576d0007c82193/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=50614198-c989-11ee-b390-cae9453c629f
+
+#EXTINF:-1 tvg-id="60c8b3ddaaf9d4000780066f" tvg-name="Pluto TV K-Pop" tvg-logo="https://images.pluto.tv/channels/60c8b3ddaaf9d4000780066f/colorLogoPNG.png" group-title="Música" tvg-chno="606", Pluto TV K-Pop
+https://stitcher.pluto.tv/stitch/hls/channel/60c8b3ddaaf9d4000780066f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=50614198-c989-11ee-b390-cae9453c629f
+
+#EXTINF:-1 tvg-id="60f16986acb81b0007c384ac" tvg-name="Qello Concerts" tvg-logo="https://images.pluto.tv/channels/60f16986acb81b0007c384ac/colorLogoPNG.png" group-title="Música" tvg-chno="607", Qello Concerts
+https://stitcher.pluto.tv/stitch/hls/channel/60f16986acb81b0007c384ac/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=50614198-c989-11ee-b390-cae9453c629f
+
+#EXTINF:-1 tvg-id="61ea759737679900078ff559" tvg-name="MTV Party Music" tvg-logo="https://images.pluto.tv/channels/61ea759737679900078ff559/colorLogoPNG.png" group-title="Música" tvg-chno="601", MTV Party Music
+https://stitcher.pluto.tv/stitch/hls/channel/61ea759737679900078ff559/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=50614198-c989-11ee-b390-cae9453c629f
+
+#EXTINF:-1 tvg-id="60a26a056d55b30007918d5a" tvg-name="MTV Music Made in Spain" tvg-logo="https://images.pluto.tv/channels/60a26a056d55b30007918d5a/colorLogoPNG.png" group-title="Música" tvg-chno="602", MTV Music Made in Spain
+https://stitcher.pluto.tv/stitch/hls/channel/60a26a056d55b30007918d5a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=50614198-c989-11ee-b390-cae9453c629f
+
+#EXTINF:-1 tvg-id="62444f34ea3ade0007ade6ac" tvg-name="MTV Urban Music" tvg-logo="https://images.pluto.tv/channels/62444f34ea3ade0007ade6ac/colorLogoPNG.png" group-title="Música" tvg-chno="604", MTV Urban Music
+https://stitcher.pluto.tv/stitch/hls/channel/62444f34ea3ade0007ade6ac/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=50614198-c989-11ee-b390-cae9453c629f
+
+#EXTINF:-1 tvg-id="64db35b44c5ed80008f6a3ed" tvg-name="Yo! MTV Raps Classic" tvg-logo="https://images.pluto.tv/channels/64db35b44c5ed80008f6a3ed/colorLogoPNG.png" group-title="Música" tvg-chno="605", Yo! MTV Raps Classic
+https://stitcher.pluto.tv/stitch/hls/channel/64db35b44c5ed80008f6a3ed/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=50614198-c989-11ee-b390-cae9453c629f
+
+#EXTINF:-1 tvg-id="604f81a49ef73300070e554f" tvg-name="MTV Teen Mom" tvg-logo="https://images.pluto.tv/channels/604f81a49ef73300070e554f/colorLogoPNG.png" group-title="MTV" tvg-chno="555", MTV Teen Mom
+https://stitcher.pluto.tv/stitch/hls/channel/604f81a49ef73300070e554f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=50614198-c989-11ee-b390-cae9453c629f
+
+#EXTINF:-1 tvg-id="5f98537a5a4341000733aefe" tvg-name="MTV Embarazada a los 16" tvg-logo="https://images.pluto.tv/channels/5f98537a5a4341000733aefe/colorLogoPNG.png" group-title="MTV" tvg-chno="556", MTV Embarazada a los 16
+https://stitcher.pluto.tv/stitch/hls/channel/5f98537a5a4341000733aefe/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=50614198-c989-11ee-b390-cae9453c629f
+
+#EXTINF:-1 tvg-id="5f1ab3c7778230000735cf41" tvg-name="MTV Catfish TV Show" tvg-logo="https://images.pluto.tv/channels/5f1ab3c7778230000735cf41/colorLogoPNG.png" group-title="MTV" tvg-chno="550", MTV Catfish TV Show
+https://stitcher.pluto.tv/stitch/hls/channel/5f1ab3c7778230000735cf41/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=50614198-c989-11ee-b390-cae9453c629f
+
+#EXTINF:-1 tvg-id="6076c74daa05ac0007d0eb07" tvg-name="Tuning" tvg-logo="https://images.pluto.tv/channels/6076c74daa05ac0007d0eb07/colorLogoPNG.png" group-title="MTV" tvg-chno="502", MTV Tuning
+https://stitcher.pluto.tv/stitch/hls/channel/6076c74daa05ac0007d0eb07/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=50614198-c989-11ee-b390-cae9453c629f
+
+#EXTINF:-1 tvg-id="611b87946b7f420007c22361" tvg-name="MTV Tattoo a dos" tvg-logo="https://images.pluto.tv/channels/611b87946b7f420007c22361/colorLogoPNG.png" group-title="MTV" tvg-chno="557", MTV Tattoo a dos
+https://stitcher.pluto.tv/stitch/hls/channel/611b87946b7f420007c22361/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=50614198-c989-11ee-b390-cae9453c629f
