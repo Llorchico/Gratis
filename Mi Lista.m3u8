@@ -150,6 +150,9 @@ https://stitcher.pluto.tv/stitch/hls/channel/60e45687313c5f0007bc8e94/master.m3u
 #EXTINF:-1 tvg-id="60d356a534f63f000850cdd7" tvg-name="Top Gear" tvg-logo="https://images.pluto.tv/channels/60d356a534f63f000850cdd7/colorLogoPNG.png" group-title="Programas 24/7" tvg-chno="500", Top Gear
 https://stitcher.pluto.tv/stitch/hls/channel/60d356a534f63f000850cdd7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=50614198-c989-11ee-b390-cae9453c629f
 
+#EXTINF:-1 tvg-id="604f8125c6669b00077f7699" tvg-name="Wipeout" tvg-logo="https://images.pluto.tv/channels/604f8125c6669b00077f7699/colorLogoPNG.png" group-title="Programas 24/7" tvg-chno="701", Wipeout
+https://stitcher.pluto.tv/stitch/hls/channel/604f8125c6669b00077f7699/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=50614198-c989-11ee-b390-cae9453c629f
+
 #EXTINF:-1 tvg-id="60d3574e97f10800078455de" tvg-name="Doctor Who" tvg-logo="https://images.pluto.tv/channels/60d3574e97f10800078455de/colorLogoPNG.png" group-title="Series 24/7" tvg-chno="101", Doctor Who
 https://stitcher.pluto.tv/stitch/hls/channel/60d3574e97f10800078455de/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=50614198-c989-11ee-b390-cae9453c629f
 
@@ -192,6 +195,30 @@ https://stitcher.pluto.tv/stitch/hls/channel/6245c2a5eec07b0007249fc8/master.m3u
 #EXTINF:-1 tvg-id="6245c03922d9d4000760d205" tvg-name="Melrose Place" tvg-logo="https://images.pluto.tv/channels/6245c03922d9d4000760d205/colorLogoPNG.png" group-title="Series Retro 24/7" tvg-chno="103", Melrose Place
 https://stitcher.pluto.tv/stitch/hls/channel/6245c03922d9d4000760d205/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=50614198-c989-11ee-b390-cae9453c629f
 
+#EXTINF:-1 tvg-id="5f1aca0b4e448e00075e7c5e" tvg-name="Bob Esponja" tvg-logo="https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png" group-title="Kids 24/7" tvg-chno="900", Bob Esponja
+https://stitcher.pluto.tv/stitch/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=50614198-c989-11ee-b390-cae9453c629f
+
+#EXTINF:-1 tvg-id="61373c865ed5810007173fbc" tvg-name="Avatar" tvg-logo="https://images.pluto.tv/channels/61373c865ed5810007173fbc/colorLogoPNG.png" group-title="Kids 24/7" tvg-chno="807", Avatar
+https://stitcher.pluto.tv/stitch/hls/channel/61373c865ed5810007173fbc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=50614198-c989-11ee-b390-cae9453c629f
+
+#EXTINF:-1 tvg-id="61373f1a12dd9f00077dcd6f" tvg-name="Las Tortugas Ninja" tvg-logo="https://images.pluto.tv/channels/61373f1a12dd9f00077dcd6f/colorLogoPNG.png" group-title="Kids 24/7" tvg-chno="806", Las Tortugas Ninja
+https://stitcher.pluto.tv/stitch/hls/channel/61373f1a12dd9f00077dcd6f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=50614198-c989-11ee-b390-cae9453c629f
+
+#EXTINF:-1 tvg-id="63c69c87808b740007599fe1" tvg-name="Érase una vez..." tvg-logo="https://images.pluto.tv/channels/63c69c87808b740007599fe1/colorLogoPNG.png" group-title="Kids 24/7" tvg-chno="903", Érase una vez...
+https://stitcher.pluto.tv/stitch/hls/channel/63c69c87808b740007599fe1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=50614198-c989-11ee-b390-cae9453c629f
+
+#EXTINF:-1 tvg-id="629a066860ef810008267b70" tvg-name="Detective Conan" tvg-logo="https://images.pluto.tv/channels/629a066860ef810008267b70/colorLogoPNG.png" group-title="Kids 24/7" tvg-chno="802", Detective Conan
+https://stitcher.pluto.tv/stitch/hls/channel/629a066860ef810008267b70/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=50614198-c989-11ee-b390-cae9453c629f
+
+#EXTINF:-1 tvg-id="63eb96754e83e70008ab8941" tvg-name="Yu-Gi-Oh!" tvg-logo="https://images.pluto.tv/channels/63eb96754e83e70008ab8941/colorLogoPNG.png" group-title="Kids 24/7" tvg-chno="803", Yu-Gi-Oh!
+https://stitcher.pluto.tv/stitch/hls/channel/63eb96754e83e70008ab8941/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=50614198-c989-11ee-b390-cae9453c629f
+
+#EXTINF:-1 tvg-id="632c6df43d2bc5000751f621" tvg-name="Inazuma Eleven" tvg-logo="https://images.pluto.tv/channels/632c6df43d2bc5000751f621/colorLogoPNG.png" group-title="Kids 24/7" tvg-chno="804", Inazuma Eleven
+https://stitcher.pluto.tv/stitch/hls/channel/632c6df43d2bc5000751f621/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=50614198-c989-11ee-b390-cae9453c629f
+
+#EXTINF:-1 tvg-id="628751bb7154a40007168843" tvg-name="South Park" tvg-logo="https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoPNG.png" group-title="Kids 24/7" tvg-chno="800", South Park
+https://stitcher.pluto.tv/stitch/hls/channel/628751bb7154a40007168843/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=50614198-c989-11ee-b390-cae9453c629f
+
 #EXTINF:-1 tvg-id="60d3583ef310610007fb02b1" tvg-name="Euronews" tvg-logo="https://images.pluto.tv/channels/60d3583ef310610007fb02b1/colorLogoPNG.png" group-title="Noticias" tvg-chno="650", Euronews
 https://stitcher.pluto.tv/stitch/hls/channel/60d3583ef310610007fb02b1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=50614198-c989-11ee-b390-cae9453c629f
 
@@ -230,3 +257,15 @@ https://stitcher.pluto.tv/stitch/hls/channel/6076c74daa05ac0007d0eb07/master.m3u
 
 #EXTINF:-1 tvg-id="611b87946b7f420007c22361" tvg-name="MTV Tattoo a dos" tvg-logo="https://images.pluto.tv/channels/611b87946b7f420007c22361/colorLogoPNG.png" group-title="MTV" tvg-chno="557", MTV Tattoo a dos
 https://stitcher.pluto.tv/stitch/hls/channel/611b87946b7f420007c22361/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=50614198-c989-11ee-b390-cae9453c629f
+
+#EXTINF:-1 tvg-id="5f1ac8588734f8000823b7de" tvg-name="Pluto TV Deportes" tvg-logo="https://images.pluto.tv/channels/5f1ac8588734f8000823b7de/colorLogoPNG.png" group-title="Deportes" tvg-chno="506", Pluto TV Deportes
+https://stitcher.pluto.tv/stitch/hls/channel/5f1ac8588734f8000823b7de/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=50614198-c989-11ee-b390-cae9453c629f
+
+#EXTINF:-1 tvg-id="648c2a27976ee900085a8524" tvg-name="MyPadel TV" tvg-logo="https://images.pluto.tv/channels/648c2a27976ee900085a8524/colorLogoPNG.png" group-title="Deportes Raqueta" tvg-chno="507", MyPadel TV
+https://stitcher.pluto.tv/stitch/hls/channel/648c2a27976ee900085a8524/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=50614198-c989-11ee-b390-cae9453c629f
+
+#EXTINF:-1 tvg-id="6080345ebb49b90007ce0baf" tvg-name="Pluto TV Motor" tvg-logo="https://images.pluto.tv/channels/6080345ebb49b90007ce0baf/colorLogoPNG.png" group-title="Deportes Motor" tvg-chno="501", Pluto TV Motor
+https://stitcher.pluto.tv/stitch/hls/channel/6080345ebb49b90007ce0baf/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=50614198-c989-11ee-b390-cae9453c629f
+
+#EXTINF:-1 tvg-id="654a5f7d4d6d8f00084ecaac" tvg-name="PFL MMA" tvg-logo="https://images.pluto.tv/channels/654a5f7d4d6d8f00084ecaac/colorLogoPNG.png" group-title="Deportes Lucha" tvg-chno="508", PFL MMA
+https://stitcher.pluto.tv/stitch/hls/channel/654a5f7d4d6d8f00084ecaac/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=50614198-c989-11ee-b390-cae9453c629f
