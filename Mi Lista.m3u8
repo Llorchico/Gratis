@@ -123,6 +123,9 @@ https://stitcher.pluto.tv/stitch/hls/channel/5ffe17e3d765170007c3a4fe/master.m3u
 #EXTINF:-1 channel-id="pluto-62fa81ccd1a7e90007c1ada0" tvg-id="62fa81ccd1a7e90007c1ada0" tvg-logo="https://images.pluto.tv/channels/62fa81ccd1a7e90007c1ada0/colorLogoPNG.png" tvg-chno="3870" group-title="Cine / Series" , Pluto AMC (LAT)
 https://r.mjh.nz/PlutoTV/62fa81ccd1a7e90007c1ada0-alt.m3u8
 
+#EXTINF:-1 tvg-id="5de802659167b10009e7deba" tvg-name="Pluto TV Series Retro" tvg-logo="https://images.pluto.tv/channels/5de802659167b10009e7deba/colorLogoPNG.png" group-title="Cine / Series" tvg-chno="203", Pluto TV Series Retro (LAT)
+https://stitcher.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=bd8699cf-cad8-11ee-bca0-f29e998814f0
+
 #EXTINF:-1 tvg-id="5f984f4a09e92d0007d74647" tvg-name="Archivos Forenses" tvg-logo="https://images.pluto.tv/channels/5f984f4a09e92d0007d74647/colorLogoPNG.png" group-title="Crimen y Misterio" tvg-chno="300", Archivos Forenses
 https://stitcher.pluto.tv/stitch/hls/channel/5f984f4a09e92d0007d74647/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=50614198-c989-11ee-b390-cae9453c629f
 
@@ -477,6 +480,9 @@ https://stitcher.pluto.tv/stitch/hls/channel/5ee92e72fb286e0007285fec/master.m3u
 #EXTINF:-1 tvg-id="64c92fea3c3344000869e8a9" tvg-name="Naruto Shippuden" tvg-logo="https://images.pluto.tv/channels/64c92fea3c3344000869e8a9/colorLogoPNG.png" group-title="Kids 24/7" tvg-chno="1260", Naruto Shippuden (LAT)
 https://stitcher.pluto.tv/stitch/hls/channel/64c92fea3c3344000869e8a9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=757a878f-c989-11ee-bbcf-2adc1a2bcfc2
 
+#EXTINF:-1 tvg-id="656f37f257fe4a000884dfee" tvg-name="Boruto: Naruto Next Generations" tvg-logo="https://images.pluto.tv/channels/656f37f257fe4a000884dfee/colorLogoPNG.png" group-title="Kids 24/7" tvg-chno="1261", Boruto: Naruto Next Generations (LAT)
+https://stitcher.pluto.tv/stitch/hls/channel/656f37f257fe4a000884dfee/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=bd8699cf-cad8-11ee-bca0-f29e998814f0
+
 #EXTINF:-1 tvg-id="626c2ed933a2890007e91422" tvg-name="Death Note" tvg-logo="https://images.pluto.tv/channels/626c2ed933a2890007e91422/colorLogoPNG.png" group-title="Kids 24/7" tvg-chno="1264", Death Note (LAT)
 https://stitcher.pluto.tv/stitch/hls/channel/626c2ed933a2890007e91422/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=757a878f-c989-11ee-bbcf-2adc1a2bcfc2
 
@@ -639,6 +645,9 @@ https://stitcher.pluto.tv/stitch/hls/channel/656e465b9d5ac400083d2db9/master.m3u
 
 #EXTINF:-1 tvg-id="64025592953da40008bf9238" tvg-name="Obsesión por los Autos" tvg-logo="https://images.pluto.tv/channels/64025592953da40008bf9238/colorLogoPNG.png" group-title="Deportes Motor" tvg-chno="503", Obsesión por los Autos (LAT)
 https://stitcher.pluto.tv/stitch/hls/channel/64025592953da40008bf9238/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=757a878f-c989-11ee-bbcf-2adc1a2bcfc2
+
+#EXTINF:-1 tvg-id="656e2536fbc15b00084ae29d" tvg-name="Mi Coche Clásico" tvg-logo="https://images.pluto.tv/channels/656e2536fbc15b00084ae29d/colorLogoPNG.png" group-title="Deportes Motor" tvg-chno="504", Mi Coche Clásico (LAT)
+https://stitcher.pluto.tv/stitch/hls/channel/656e2536fbc15b00084ae29d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=bd8699cf-cad8-11ee-bca0-f29e998814f0
 
 #EXTINF:-1 tvg-id="60e5ea9a9bb4200008376f76" tvg-name="Motorvision TV" tvg-logo="https://images.pluto.tv/channels/60e5ea9a9bb4200008376f76/colorLogoPNG.png" group-title="Deportes Motor" tvg-chno="509", Motorvision TV (LAT)
 https://stitcher.pluto.tv/stitch/hls/channel/60e5ea9a9bb4200008376f76/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=757a878f-c989-11ee-bbcf-2adc1a2bcfc2
