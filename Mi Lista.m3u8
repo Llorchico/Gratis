@@ -1,10 +1,13 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml,https://i.mjh.nz/PlutoTV/all.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://helmerluzo.github.io/RuntimeTV_HL/epg/RuntimeTV.xml.gz,https://helmerluzo.github.io/RakutenTV_HL/epg/RakutenTV.xml.gz"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml,https://i.mjh.nz/PlutoTV/all.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://helmerluzo.github.io/RuntimeTV_HL/epg/RuntimeTV.xml.gz,https://helmerluzo.github.io/RakutenTV_HL/epg/RakutenTV.xml.gz,https://helmerluzo.github.io/CanelaTV_HL/epg/CanelaTV.xml.gz"
 
 #EXTINF:-1 channel-id="samsung-ESBC4100001NZ" tvg-id="ESBC4100001NZ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20240117T032718SQUARE.png_20240117032719.png" tvg-chno="4007" group-title="TDT" , La 1
 https://i.mjh.nz/SamsungTVPlus/ESBC4100001NZ.m3u8
 
 #EXTINF:-1 channel-id="samsung-ESBC4100002AG" tvg-id="ESBC4100002AG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100002AG_20221109T010944SQUARE.png_20221109010944.png" tvg-chno="4105" group-title="TDT" , La 2
 https://i.mjh.nz/SamsungTVPlus/ESBC4100002AG.m3u8
+
+#EXTINF:-1 tvg-id="cgtn-es" tvg-name="cgtn-es" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/830975d8-58b0-443f-a276-f9eb93ef9364.jpeg" group-title="Internacional" , CGTN
+https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8?ads_amagi_channel=878&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=7&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=5546&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=fb9880f1-036a-48a5-b65f-0fba192bfbed&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 
 #EXTINF:-1 channel-id="samsung-ESBC1700004PX" tvg-id="ESBC1700004PX" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700004PX_20240117T032710SQUARE.png_20240117032711.png" tvg-chno="4131" group-title="Cine" , Trailers
 https://i.mjh.nz/SamsungTVPlus/ESBC1700004PX.m3u8
@@ -72,6 +75,9 @@ https://stitcher.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u
 #EXTINF:-1 channel-id="pluto-5d8d180092e97a5e107638d3" tvg-id="5d8d180092e97a5e107638d3" tvg-logo="https://images.pluto.tv/channels/5d8d180092e97a5e107638d3/colorLogoPNG.png" tvg-chno="3650" group-title="Cine Terror / Crimen" , Cine terror (LAT)
 https://r.mjh.nz/PlutoTV/5d8d180092e97a5e107638d3-alt.m3u8
 
+#EXTINF:-1 tvg-id="canela-horror" tvg-name="canela-horror" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/fafe5a48-channel-canela_horror-16x9.jpg" group-title="Cine Terror / Crimen" , Canela Horror (LAT)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6029
+
 #EXTINF:-1 tvg-id="5f6a38eaa5b68b0007a00e7a" tvg-name="Pluto TV Sci-Fi" tvg-logo="https://images.pluto.tv/channels/5f6a38eaa5b68b0007a00e7a/colorLogoPNG.png" group-title="Cine Sci-Fi" tvg-chno="203", Pluto TV Sci-Fi
 https://stitcher.pluto.tv/stitch/hls/channel/5f6a38eaa5b68b0007a00e7a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=50614198-c989-11ee-b390-cae9453c629f
 
@@ -116,6 +122,9 @@ https://6ba55874ea074d818b347bf766d35316.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-id="5dd6ddb30a1d8a000908ed4c" tvg-name="Pluto TV Cine Familia" tvg-logo="https://images.pluto.tv/channels/5dd6ddb30a1d8a000908ed4c/colorLogoPNG.png" group-title="Cine Familiar" tvg-chno="90", Pluto TV Cine Familia (LAT)
 https://stitcher.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=757a878f-c989-11ee-bbcf-2adc1a2bcfc2
+
+#EXTINF:-1 tvg-id="cine-en-familia" tvg-name="cine-en-familia" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-cine_en_familia-ck-16x9-albert.jpg" group-title="Cine Familiar" , Cine en Familia (LAT)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5281
 
 #EXTINF:-1 tvg-id="cine-espanol-rakuten-tv" tvg-name="cine-espanol-rakuten-tv" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/fe99ab67-7935-40ad-aedb-010a73e70df8-cine-espanol-rakuten-tv-1628175641.jpeg" group-title="Cine Español" , Rakuten Cine Español
 https://128559a99ef24f61b53e3f954af3db8c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_Local/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=2929&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=16c38679-6d60-4995-84ed-f2aacaa883fc&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=794
@@ -192,6 +201,15 @@ https://i.mjh.nz/SamsungTVPlus/ESBA140000504.m3u8
 #EXTINF:-1 channel-id="samsung-ESBC43000013T" tvg-id="ESBC43000013T" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC43000013T_20230915T042726SQUARE.png_20230915042727.png" tvg-chno="4170" group-title="Telenovelas" , Todo Novelas
 https://i.mjh.nz/SamsungTVPlus/ESBC43000013T.m3u8
 
+#EXTINF:-1 tvg-id="novelas-turcas" tvg-name="novelas-turcas" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-turcas-16x9.jpg" group-title="Telenovelas" , Novelas Turcas (LAT)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
+
+#EXTINF:-1 tvg-id="canela-telenovelas" tvg-name="canela-telenovelas" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-canela_telenovelas-16x9_0.jpg" group-title="Telenovelas" , Canela Telenovelas (LAT)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
+
+#EXTINF:-1 tvg-id="novelas-inolvidables" tvg-name="novelas-inolvidables" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-novelas-inolvidables-16x9_0.jpg" group-title="Telenovelas" , Novelas Inolvidables (LAT)
+https://ov.ottera.tv/channels/cnm_niv/master.m3u8?
+
 #EXTINF:-1 tvg-id="60dafb9a0df1ba000758d37b" tvg-name="BBC Drama" tvg-logo="https://images.pluto.tv/channels/60dafb9a0df1ba000758d37b/colorLogoPNG.png" group-title="Cine / Series" tvg-chno="109", BBC Drama
 https://stitcher.pluto.tv/stitch/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=50614198-c989-11ee-b390-cae9453c629f
 
@@ -209,6 +227,18 @@ https://stitcher.pluto.tv/stitch/hls/channel/5ffe17e3d765170007c3a4fe/master.m3u
 
 #EXTINF:-1 tvg-id="runtime-series" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_series_16x9_0.jpg" group-title="Cine / Series" , Runtime Series 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6132
+
+#EXTINF:-1 tvg-id="canela-tv" tvg-name="canela-tv" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-canela_tv-16x9_0.jpg" group-title="Cine / Series" , Canela TV (LAT)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=653
+
+#EXTINF:-1 tvg-id="true-crime" tvg-name="true-crime" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-true_crime-16x9.jpg" group-title="Cine / Series" , True Crime (LAT)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3985
+
+#EXTINF:-1 tvg-id="cine-picante" tvg-name="cine-picante" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-picante-16x9.jpg" group-title="Cine / Series" , Cine Picante (LAT)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5629
+
+#EXTINF:-1 tvg-id="/estu-cine" tvg-name="/estu-cine" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/tucine_cover_fastchannel_1920x1080_0.jpg" group-title="Cine / Series" , Tu Cine
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-olytucinelatam-canelatv/playlist.m3u8?device_id=a1c966e29f52334a1b28296f846ac146
 
 #EXTINF:-1 tvg-id="crime-series-es-rakuten-tv" tvg-name="crime-series-es-rakuten-tv" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/002815fb-3455-4b8c-baec-384da057d3f2.jpeg" group-title="Cine / Series" , Rakuten Crimen
 https://dff4f1e3eeda41eeace54282fe06fc05.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_Crimen/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=4783&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=5cd656ed-7a93-42bc-a2af-37c4ed616765&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1493
@@ -267,6 +297,9 @@ https://stitcher.pluto.tv/stitch/hls/channel/61cd78920b90cb0007e28231/master.m3u
 #EXTINF:-1 tvg-id="61cd7b49543066000713b620" tvg-name="Pluto TV Historia" tvg-logo="https://images.pluto.tv/channels/61cd7b49543066000713b620/colorLogoPNG.png" group-title="Documental" tvg-chno="451", Pluto TV Historia
 https://stitcher.pluto.tv/stitch/hls/channel/61cd7b49543066000713b620/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=50614198-c989-11ee-b390-cae9453c629f
 
+#EXTINF:-1 tvg-id="naturaleza" tvg-name="naturaleza" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/9a75a1bd-ce98-4585-abff-49949b91ed63-naturaleza-1630568601.jpeg" group-title="Documental" , Naturaleza
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=IndigeniusNaturalezaSpanish&ads.csid=zeus_es_indigeniusnaturalezaspanish_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3688&ads.rakuten_streaming_id=d21017b9-c91a-4b7c-aaed-ca9289013215&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883049&ads.xumo_contentId=2161&ads.xumo_contentName=IndigeniusNaturalezaSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2161&ads.xumo_providerName=IndigeniusNaturalezaSpanish&ads.xumo_streamId=88883049
+
 #EXTINF:-1 tvg-id="5de5758e1a30dc00094fcd6c" tvg-name="Pluto TV Historia" tvg-logo="https://images.pluto.tv/channels/5de5758e1a30dc00094fcd6c/colorLogoPNG.png" group-title="Documental" tvg-chno="563", Pluto TV Historia (LAT)
 https://stitcher.pluto.tv/stitch/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=757a878f-c989-11ee-bbcf-2adc1a2bcfc2
 
@@ -284,6 +317,9 @@ https://r.mjh.nz/PlutoTV/589aa03df9ba56a84197a560-alt.m3u8
 
 #EXTINF:-1 tvg-id="5dbc2f98777f2e0009934ae7" tvg-name="Pluto TV Space" tvg-logo="https://images.pluto.tv/channels/5dbc2f98777f2e0009934ae7/colorLogoPNG.png" group-title="Documental" tvg-chno="831", Pluto TV Space (USA)
 https://stitcher.pluto.tv/stitch/hls/channel/5dbc2f98777f2e0009934ae7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b160d39-c989-11ee-8821-4a8209f1d7df
+
+#EXTINF:-1 tvg-id="documentaries-es-rakuten-tv" tvg-name="documentaries-es-rakuten-tv" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/48291c5f-a875-4be3-a5fb-ab2990193a03.jpeg" group-title="Documental" , Rakuten Documentales
+https://d555824e3a594aefaefc94552a43d278.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_RakutenSpotlight/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=2497&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=90060154-7443-4c2d-a8fd-df7a54d0fde6&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=430
 
 #EXTINF:-1 tvg-id="5f1acdaa8ba90f0007d5e760" tvg-name="Pluto TV Cocina" tvg-logo="https://images.pluto.tv/channels/5f1acdaa8ba90f0007d5e760/colorLogoPNG.png" group-title="Cocina" tvg-chno="450", Pluto TV Cocina
 https://stitcher.pluto.tv/stitch/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=50614198-c989-11ee-b390-cae9453c629f
@@ -381,11 +417,14 @@ https://stitcher.pluto.tv/stitch/hls/channel/5dd6ab8056beb000091fc6b6/master.m3u
 #EXTINF:-1 channel-id="samsung-ESBC3500002PW" tvg-id="ESBC3500002PW" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3500002PW_20221215T020824SQUARE.png_20221215020824.png" tvg-chno="4417" group-title="Hogar" , Ideas en 5 Minutos
 https://i.mjh.nz/SamsungTVPlus/ESBC3500002PW.m3u8
 
+#EXTINF:-1 tvg-id="mi-casa" tvg-name="mi-casa" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/5753f79a-8b8b-4796-97eb-894039369f9c-mi-casa-1630568194.jpeg" group-title="Hogar" , Mi Casa
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=IndigeniusMiCasaSpanish&ads.csid=zeus_es_indigeniusmicasaspanish_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3685&ads.rakuten_streaming_id=3a9ea2d8-44af-4ebf-8081-0f439d31f9b2&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883045&ads.xumo_contentId=2160&ads.xumo_contentName=IndigeniusMiCasaSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2160&ads.xumo_providerName=IndigeniusMiCasaSpanish&ads.xumo_streamId=88883045
+
+#EXTINF:-1 tvg-id="clic" tvg-name="clic" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/1920_x_1080_0_2.png" group-title="Hogar" , Clic (LAT)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5398
+
 #EXTINF:-1 channel-id="pluto-5d51e791b7dba3b2ae990ab2" tvg-id="5d51e791b7dba3b2ae990ab2" tvg-logo="https://images.pluto.tv/channels/5d51e791b7dba3b2ae990ab2/colorLogoPNG.png" tvg-chno="2700" group-title="Hogar" , This Old House (USA)
 https://r.mjh.nz/PlutoTV/5d51e791b7dba3b2ae990ab2-alt.m3u8
-
-#EXTINF:-1 tvg-id="mi-casa" tvg-name="mi-casa" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/5753f79a-8b8b-4796-97eb-894039369f9c-mi-casa-1630568194.jpeg" group-title="Estilo de vida" , Mi Casa
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=IndigeniusMiCasaSpanish&ads.csid=zeus_es_indigeniusmicasaspanish_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3685&ads.rakuten_streaming_id=3a9ea2d8-44af-4ebf-8081-0f439d31f9b2&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883045&ads.xumo_contentId=2160&ads.xumo_contentName=IndigeniusMiCasaSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2160&ads.xumo_providerName=IndigeniusMiCasaSpanish&ads.xumo_streamId=88883045
 
 #EXTINF:-1 channel-id="samsung-ESBC4100003WE" tvg-id="ESBC4100003WE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100003WE_20230208T013050SQUARE.png_20230208013050.png" tvg-chno="4604" group-title="Kids" , Clan
 https://i.mjh.nz/SamsungTVPlus/ESBC4100003WE.m3u8
@@ -726,6 +765,14 @@ https://r.mjh.nz/PlutoTV/5d93b635b43dd1a399b39eee-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5da0d64d0e8a62000964ebe4" tvg-id="5da0d64d0e8a62000964ebe4" tvg-logo="https://images.pluto.tv/channels/5da0d64d0e8a62000964ebe4/colorLogoPNG.png" tvg-chno="3570" group-title="Música" , Vevo Latino
 https://r.mjh.nz/PlutoTV/5da0d64d0e8a62000964ebe4-alt.m3u8
 
+#EXTINF:-1 tvg-id="stingray-greatest-hits" tvg-name="stingray-greatest-hits" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/50a3ecdf-9e7c-4632-9480-193ffeb8650c.jpeg" group-title="Música" , Stingray Greatest Hits
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-6&ads._fw_content_genre=music&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=StingrayGreatestHits&ads.csid=zeus_eu_stingraygreatesthits_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=2188&ads.rakuten_streaming_id=4d5073cc-770a-4846-a298-ccd774e2390c&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883053&ads.xumo_contentId=1857&ads.xumo_contentName=StingrayGreatestHits&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=1857&ads.xumo_providerName=StingrayGreatestHits&ads.xumo_streamId=88883053
+#EXTINF:-1 tvg-id="stingray-hit-list" tvg-name="stingray-hit-list" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/04f1c1b9-2e32-4464-825c-4aa740b3981f-stingray-hitlist-1607508431.jpeg" group-title="Música" , Stingray: Hitlist
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-6&ads._fw_content_genre=music&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=StingrayHitlist&ads.csid=zeus_eu_stingrayhitlist_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=2080&ads.rakuten_streaming_id=0da458d0-c757-4089-9601-9eb29a60f3f9&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883054&ads.xumo_contentId=1858&ads.xumo_contentName=StingrayHitlist&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=1858&ads.xumo_providerName=StingrayHitlist&ads.xumo_streamId=88883054
+#EXTINF:-1 tvg-id="stingray-remember-the-80-s" tvg-name="stingray-remember-the-80-s" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/32a49d06-f203-4b4a-829c-4d1f66bf6a03.jpeg" group-title="Música" , Stingray: Remember the 80’s
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-6&ads._fw_content_genre=music&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=RememberThe80sUK&ads.csid=zeus_uk_stingrayrememberthe80s_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=4883&ads.rakuten_streaming_id=ebae072c-fdf0-48ad-9230-9a428f7a1f7a&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883071&ads.xumo_contentId=2184&ads.xumo_contentName=StingrayEverything80s&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2184&ads.xumo_providerName=StingrayEverything80s&ads.xumo_streamId=88883071
+
+
 #EXTINF:-1 channel-id="pluto-623b92a2ccefed0007b1db48" tvg-id="623b92a2ccefed0007b1db48" tvg-logo="https://images.pluto.tv/channels/623b92a2ccefed0007b1db48/colorLogoPNG.png" tvg-chno="3420" group-title="Música" , XITE Classic Country
 https://r.mjh.nz/PlutoTV/623b92a2ccefed0007b1db48-alt.m3u8
 
@@ -741,11 +788,29 @@ https://i.mjh.nz/SamsungTVPlus/ESBA3300042Y6.m3u8
 #EXTINF:-1 channel-id="samsung-ESBA3300043M0" tvg-id="ESBA3300043M0" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300043M0_20230614T005924SQUARE.png_20230614005925.png" tvg-chno="4718" group-title="Música" , Trace Urban
 https://i.mjh.nz/SamsungTVPlus/ESBA3300043M0.m3u8
 
+#EXTINF:-1 tvg-id="now-70s" tvg-name="now-70s" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/e60f4df9-a0e1-4d45-9b3c-ee619812b2bc.jpeg" group-title="Música" , Now 70's
+https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8?ads_amagi_channel=869&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=5284&ads_rtv_content_language=eng&ads_rtvid=271859&ads_streaming_id=a05cfbf8-c8be-4b67-8f61-690b571a0cd6&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+
 #EXTINF:-1 tvg-id="6490254fd2c47c00083a5743" tvg-name="Now 80's" tvg-logo="https://images.pluto.tv/channels/6490254fd2c47c00083a5743/colorLogoPNG.png" group-title="Música" tvg-chno="854", Now 80's
 https://stitcher.pluto.tv/stitch/hls/channel/6490254fd2c47c00083a5743/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b160d39-c989-11ee-8821-4a8209f1d7df
 
 #EXTINF:-1 tvg-id="6568a78d635c3c0008765f41" tvg-name="Now Rock" tvg-logo="https://images.pluto.tv/channels/6568a78d635c3c0008765f41/colorLogoPNG.png" group-title="Música" tvg-chno="855", Now Rock
 https://stitcher.pluto.tv/stitch/hls/channel/6568a78d635c3c0008765f41/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b160d39-c989-11ee-8821-4a8209f1d7df
+
+#EXTINF:-1 tvg-id="canela-music-presents" tvg-name="canela-music-presents" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/canelapresents_16-9_0.jpg" group-title="Música" , CANELA MUSIC PRESENTS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2548
+
+#EXTINF:-1 tvg-id="canela-hits" tvg-name="canela-hits" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/canelahits_16-9_1.jpg" group-title="Música" , Canela Hits
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
+
+#EXTINF:-1 tvg-id="tu-pop-favorito" tvg-name="tu-pop-favorito" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/tupopfavorito-16-9_0.jpg" group-title="Música" , TU POP FAVORITO
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1086
+
+#EXTINF:-1 tvg-id="conciertos" tvg-name="conciertos" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/ctv-conciertos-linnear-16x9.jpg" group-title="Música" , CONCIERTOS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1085
+
+#EXTINF:-1 tvg-id="ritmos-inolvidables" tvg-name="ritmos-inolvidables" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/ritmosinolvida-16-9_0.jpg" group-title="Música" , RITMOS INOLVIDABLES 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1081
 
 #EXTINF:-1 channel-id="samsung-ESAJ49000023R" tvg-id="ESAJ49000023R" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ49000023R_20230614T005919SQUARE.png_20230614005920.png" tvg-chno="4719" group-title="Música" , Qwest TV
 https://i.mjh.nz/SamsungTVPlus/ESAJ49000023R.m3u8
@@ -849,6 +914,9 @@ https://stitcher.pluto.tv/stitch/hls/channel/64b02bbd7d93410008fdae60/master.m3u
 #EXTINF:-1 tvg-id="6320d2755e54db000783fd87" tvg-name="Claro Sports Mexico" tvg-logo="https://images.pluto.tv/channels/6320d2755e54db000783fd87/colorLogoPNG.png" group-title="Deportes Fútbol" tvg-chno="830", Claro Sports Mexico (LAT)
 https://stitcher.pluto.tv/stitch/hls/channel/6320d2755e54db000783fd87/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=757a878f-c989-11ee-bbcf-2adc1a2bcfc2
 
+#EXTINF:-1 tvg-id="lidom" tvg-name="lidom" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/1ctv_lidom-24-7_x2_16x9.jpg" group-title="Deportes" , LIDOM (LAT)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6325
+
 #EXTINF:-1 tvg-id="648c2a27976ee900085a8524" tvg-name="MyPadel TV" tvg-logo="https://images.pluto.tv/channels/648c2a27976ee900085a8524/colorLogoPNG.png" group-title="Deportes Raqueta" tvg-chno="507", MyPadel TV
 https://stitcher.pluto.tv/stitch/hls/channel/648c2a27976ee900085a8524/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=50614198-c989-11ee-b390-cae9453c629f
 
@@ -908,6 +976,9 @@ https://stitcher.pluto.tv/stitch/hls/channel/64025592953da40008bf9238/master.m3u
 
 #EXTINF:-1 tvg-id="656e2536fbc15b00084ae29d" tvg-name="Mi Coche Clásico" tvg-logo="https://images.pluto.tv/channels/656e2536fbc15b00084ae29d/colorLogoPNG.png" group-title="Deportes Motor" tvg-chno="504", Mi Coche Clásico (LAT)
 https://stitcher.pluto.tv/stitch/hls/channel/656e2536fbc15b00084ae29d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=bd8699cf-cad8-11ee-bca0-f29e998814f0
+
+#EXTINF:-1 tvg-id="power-nation-en-espanol" tvg-name="power-nation-en-espanol" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/canelatv_thumbnail_1920x1080_v3.png" group-title="Deportes Motor" , Power Nation (LAT)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01258-raycomsports-powernationspanish-canelatv/playlist.m3u8?device_id=a1c966e29f52334a1b28296f846ac146
 
 #EXTINF:-1 tvg-id="60e5ea9a9bb4200008376f76" tvg-name="Motorvision TV" tvg-logo="https://images.pluto.tv/channels/60e5ea9a9bb4200008376f76/colorLogoPNG.png" group-title="Deportes Motor" tvg-chno="509", Motorvision TV (LAT)
 https://stitcher.pluto.tv/stitch/hls/channel/60e5ea9a9bb4200008376f76/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=757a878f-c989-11ee-bbcf-2adc1a2bcfc2
