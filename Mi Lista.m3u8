@@ -366,6 +366,9 @@ https://stitcher.pluto.tv/stitch/hls/channel/62ea45010d0611000839868c/master.m3u
 #EXTINF:-1 tvg-id="62fb66c867976d0007647e54" tvg-name="Kitchen Battles" tvg-logo="https://images.pluto.tv/channels/62fb66c867976d0007647e54/colorLogoPNG.png" group-title="Cocina 24/7" tvg-chno="731", Kitchen Battles (USA)
 https://stitcher.pluto.tv/stitch/hls/channel/62fb66c867976d0007647e54/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=8086c87d-c989-11ee-a362-7e1d2c7318f5
 
+#EXTINF:-1 channel-id="samsung-USBA3000042O6" tvg-id="USBA3000042O6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000042O6_20220928T005202SQUARE.png_20220928005203.png" tvg-chno="1241" group-title="Cocina 24/7" , Kitchen Nightmares (USA)
+https://i.mjh.nz/SamsungTVPlus/USBA3000042O6.m3u8
+
 #EXTINF:-1 tvg-id="62fb675fc9f6da0007b36888" tvg-name="Nonstop Chop" tvg-logo="https://images.pluto.tv/channels/62fb675fc9f6da0007b36888/colorLogoPNG.png" group-title="Cocina 24/7" tvg-chno="732", Nonstop Chop (USA)
 https://stitcher.pluto.tv/stitch/hls/channel/62fb675fc9f6da0007b36888/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=8086c87d-c989-11ee-a362-7e1d2c7318f5
 
@@ -383,6 +386,9 @@ https://r.mjh.nz/PlutoTV/60511efd71ec430007f50d97-alt.m3u8
 
 #EXTINF:-1 channel-id="samsung-ESBD1400001L4" tvg-id="ESBD1400001L4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1400001L4_20231101T032753SQUARE.png_20231101032754.png" tvg-chno="4410" group-title="Viajar" , Travelxp
 https://i.mjh.nz/SamsungTVPlus/ESBD1400001L4.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBD700017WC" tvg-id="USBD700017WC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700017WC_20240213T215342SQUARE.png_20240213215343.png" tvg-chno="1220" group-title="Viajar" , Tastemade Travel (USA)
+https://i.mjh.nz/SamsungTVPlus/USBD700017WC.m3u8
 
 #EXTINF:-1 tvg-id="600ae6a78d801e0007117d21" tvg-name="Pluto TV Animales" tvg-logo="https://images.pluto.tv/channels/600ae6a78d801e0007117d21/colorLogoPNG.png" group-title="Natura / Animales" tvg-chno="457", Pluto TV Animales
 https://stitcher.pluto.tv/stitch/hls/channel/600ae6a78d801e0007117d21/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=50614198-c989-11ee-b390-cae9453c629f
@@ -425,6 +431,9 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 
 #EXTINF:-1 tvg-id="clic" tvg-name="clic" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/1920_x_1080_0_2.png" group-title="Hogar" , Clic (LAT)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5398
+
+#EXTINF:-1 channel-id="samsung-USBC3200022W6" tvg-id="USBC3200022W6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200022W6_20240213T215337SQUARE.png_20240213215337.png" tvg-chno="1219" group-title="Hogar" , Tastemade Home (USA)
+https://i.mjh.nz/SamsungTVPlus/USBC3200022W6.m3u8
 
 #EXTINF:-1 channel-id="pluto-5d51e791b7dba3b2ae990ab2" tvg-id="5d51e791b7dba3b2ae990ab2" tvg-logo="https://images.pluto.tv/channels/5d51e791b7dba3b2ae990ab2/colorLogoPNG.png" tvg-chno="2700" group-title="Hogar" , This Old House (USA)
 https://r.mjh.nz/PlutoTV/5d51e791b7dba3b2ae990ab2-alt.m3u8
@@ -720,6 +729,9 @@ https://i.mjh.nz/SamsungTVPlus/ESBC1400001L8.m3u8
 #EXTINF:-1 channel-id="samsung-ESBD3400001AA" tvg-id="ESBD3400001AA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3400001AA_20240117T032722SQUARE.png_20240117032723.png" tvg-chno="4005" group-title="Noticias" , Negocios TV
 https://i.mjh.nz/SamsungTVPlus/ESBD3400001AA.m3u8
 
+#EXTINF:-1 channel-id="samsung-USBC10000223W" tvg-id="USBC10000223W" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC10000223W_20230321T235932SQUARE.png_20230321235933.png" tvg-chno="1257" group-title="Noticias" , CNN RESUMEN (LAT)
+https://i.mjh.nz/SamsungTVPlus/USBC10000223W.m3u8
+
 #EXTINF:-1 channel-id="samsung-ESBD1500001SD" tvg-id="ESBD1500001SD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1500001SD_20240214T035656SQUARE.png_20240214035657.png" tvg-chno="4403" group-title="Relax" , Mi chimenea
 https://i.mjh.nz/SamsungTVPlus/ESBD1500001SD.m3u8
 
@@ -753,6 +765,9 @@ https://r.mjh.nz/PlutoTV/5fd7bb1f86d94a000796e2c2-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5fd7bca3e0a4ee0007a38e8c" tvg-id="5fd7bca3e0a4ee0007a38e8c" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/colorLogoPNG.png" tvg-chno="3400" group-title="Música" , Vevo 2K
 https://r.mjh.nz/PlutoTV/5fd7bca3e0a4ee0007a38e8c-alt.m3u8
 
+#EXTINF:-1 channel-id="samsung-USBD120002431" tvg-id="USBD120002431" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120002431_20230627T215025SQUARE.png_20230627215025.png" tvg-chno="1524" group-title="Música" , Vevo 2010s
+https://i.mjh.nz/SamsungTVPlus/USBD120002431.m3u8
+
 #EXTINF:-1 channel-id="pluto-5da0d75e84830900098a1ea0" tvg-id="5da0d75e84830900098a1ea0" tvg-logo="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/colorLogoPNG.png" tvg-chno="3430" group-title="Música" , Vevo Country
 https://r.mjh.nz/PlutoTV/5da0d75e84830900098a1ea0-alt.m3u8
 
@@ -775,6 +790,32 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 #EXTINF:-1 tvg-id="stingray-remember-the-80-s" tvg-name="stingray-remember-the-80-s" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/32a49d06-f203-4b4a-829c-4d1f66bf6a03.jpeg" group-title="Música" , Stingray: Remember the 80’s
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-6&ads._fw_content_genre=music&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=RememberThe80sUK&ads.csid=zeus_uk_stingrayrememberthe80s_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=4883&ads.rakuten_streaming_id=ebae072c-fdf0-48ad-9230-9a428f7a1f7a&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883071&ads.xumo_contentId=2184&ads.xumo_contentName=StingrayEverything80s&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2184&ads.xumo_providerName=StingrayEverything80s&ads.xumo_streamId=88883071
 
+#EXTINF:-1 channel-id="samsung-USBD35000128A" tvg-id="USBD35000128A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000128A_20231024T231824SQUARE.png_20231024231825.png" tvg-chno="1541" group-title="Música" , Stingray Smooth Jazz
+https://i.mjh.nz/SamsungTVPlus/USBD35000128A.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBD350002623" tvg-id="USBD350002623" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350002623_20231024T231756SQUARE.png_20231024231757.png" tvg-chno="1542" group-title="Música" , Stingray Classica
+https://i.mjh.nz/SamsungTVPlus/USBD350002623.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBD3500009Y3" tvg-id="USBD3500009Y3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500009Y3_20231024T231843SQUARE.png_20231024231844.png" tvg-chno="1543" group-title="Música" , Stingray Today's Latin Pop
+https://i.mjh.nz/SamsungTVPlus/USBD3500009Y3.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBD3500017CE" tvg-id="USBD3500017CE" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500017CE_20231024T231821SQUARE.png_20231024231822.png" tvg-chno="1544" group-title="Música" , Stingray Romance Latino
+https://i.mjh.nz/SamsungTVPlus/USBD3500017CE.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBD3500011J3" tvg-id="USBD3500011J3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500011J3_20231024T231803SQUARE.png_20231024231804.png" tvg-chno="1545" group-title="Música" , Stingray Easy Listening
+https://i.mjh.nz/SamsungTVPlus/USBD3500011J3.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBD3500008IJ" tvg-id="USBD3500008IJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500008IJ_20231024T231806SQUARE.png_20231024231807.png" tvg-chno="1546" group-title="Música" , Stingray Flashback 70s
+https://i.mjh.nz/SamsungTVPlus/USBD3500008IJ.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBD35000149S" tvg-id="USBD35000149S" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000149S_20231024T231815SQUARE.png_20231024231816.png" tvg-chno="1548" group-title="Música" , Stingray Nothin' But 90s
+https://i.mjh.nz/SamsungTVPlus/USBD35000149S.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBD35000180U" tvg-id="USBD35000180U" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000180U_20231024T231753SQUARE.png_20231024231754.png" tvg-chno="1549" group-title="Música" , Stingray Classic Rock
+https://i.mjh.nz/SamsungTVPlus/USBD35000180U.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBD3300021KV" tvg-id="USBD3300021KV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300021KV_20231229T003153SQUARE.png_20231229003153.png" tvg-chno="1551" group-title="Música" , Stingray Hot Country
+https://i.mjh.nz/SamsungTVPlus/USBD3300021KV.m3u8
 
 #EXTINF:-1 channel-id="pluto-623b92a2ccefed0007b1db48" tvg-id="623b92a2ccefed0007b1db48" tvg-logo="https://images.pluto.tv/channels/623b92a2ccefed0007b1db48/colorLogoPNG.png" tvg-chno="3420" group-title="Música" , XITE Classic Country
 https://r.mjh.nz/PlutoTV/623b92a2ccefed0007b1db48-alt.m3u8
@@ -784,6 +825,45 @@ https://r.mjh.nz/PlutoTV/623a1b5188ecdc0007c9ef5a-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-623b93628e6ded0007337d4d" tvg-id="623b93628e6ded0007337d4d" tvg-logo="https://images.pluto.tv/channels/623b93628e6ded0007337d4d/colorLogoPNG.png" tvg-chno="3530" group-title="Música" , XITE Gospel
 https://r.mjh.nz/PlutoTV/623b93628e6ded0007337d4d-alt.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBB320000647" tvg-id="USBB320000647" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000647_20231024T231630SQUARE.png_20231024231631.png" tvg-chno="1501" group-title="Música" , XITE 80s Flashback
+https://i.mjh.nz/SamsungTVPlus/USBB320000647.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBB3200007AK" tvg-id="USBB3200007AK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200007AK_20231024T231632SQUARE.png_20231024231633.png" tvg-chno="1502" group-title="Música" , XITE 90s Throwback
+https://i.mjh.nz/SamsungTVPlus/USBB3200007AK.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBD3300004RH" tvg-id="USBD3300004RH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20231024T231908SQUARE.png_20231024231909.png" tvg-chno="1503" group-title="Música" , XITE Hits
+https://i.mjh.nz/SamsungTVPlus/USBD3300004RH.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBD3300006O3" tvg-id="USBD3300006O3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300006O3_20231031T225112SQUARE.png_20231031225113.png" tvg-chno="1504" group-title="Música" , XITE Country Today
+https://i.mjh.nz/SamsungTVPlus/USBD3300006O3.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBD3300011UT" tvg-id="USBD3300011UT" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300011UT_20231024T231905SQUARE.png_20231024231906.png" tvg-chno="1505" group-title="Música" , XITE Country's Finest
+https://i.mjh.nz/SamsungTVPlus/USBD3300011UT.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBD3300007PB" tvg-id="USBD3300007PB" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300007PB_20231024T231914SQUARE.png_20231024231915.png" tvg-chno="1506" group-title="Música" , XITE Nuevo Latino
+https://i.mjh.nz/SamsungTVPlus/USBD3300007PB.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBD3300010L9" tvg-id="USBD3300010L9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300010L9_20231024T231922SQUARE.png_20231024231923.png" tvg-chno="1507" group-title="Música" , XITE Siempre Latino
+https://i.mjh.nz/SamsungTVPlus/USBD3300010L9.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBD330000948" tvg-id="USBD330000948" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD330000948_20231024T231919SQUARE.png_20231024231920.png" tvg-chno="1508" group-title="Música" , XITE R&B Classic Jams
+https://i.mjh.nz/SamsungTVPlus/USBD330000948.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBB2300004KV" tvg-id="USBB2300004KV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300004KV_20231024T231621SQUARE.png_20231024231622.png" tvg-chno="1509" group-title="Música" , XITE Rock On
+https://i.mjh.nz/SamsungTVPlus/USBB2300004KV.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBD3300005EX" tvg-id="USBD3300005EX" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300005EX_20231024T231911SQUARE.png_20231024231912.png" tvg-chno="1510" group-title="Música" , XITE Icons
+https://i.mjh.nz/SamsungTVPlus/USBD3300005EX.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBB2300003JZ" tvg-id="USBB2300003JZ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300003JZ_20231024T231619SQUARE.png_20231024231619.png" tvg-chno="1511" group-title="Música" , XITE Just Chill
+https://i.mjh.nz/SamsungTVPlus/USBB2300003JZ.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBD3300008DG" tvg-id="USBD3300008DG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300008DG_20231024T231916SQUARE.png_20231024231917.png" tvg-chno="1512" group-title="Música" , XITE Only Love
+https://i.mjh.nz/SamsungTVPlus/USBD3300008DG.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBD350003932" tvg-id="USBD350003932" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350003932_20240116T231127SQUARE.png_20240116231128.png" tvg-chno="1513" group-title="Música" , XITE Celebrates
+https://i.mjh.nz/SamsungTVPlus/USBD350003932.m3u8
 
 #EXTINF:-1 channel-id="samsung-ESBA3300042Y6" tvg-id="ESBA3300042Y6" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300042Y6_20230614T005923SQUARE.png_20230614005923.png" tvg-chno="4717" group-title="Música" , Trace Latina
 https://i.mjh.nz/SamsungTVPlus/ESBA3300042Y6.m3u8
@@ -887,7 +967,10 @@ https://i.mjh.nz/SamsungTVPlus/ESBC410000577.m3u8
 #EXTINF:-1 tvg-id="5f1ac8588734f8000823b7de" tvg-name="Pluto TV Deportes" tvg-logo="https://images.pluto.tv/channels/5f1ac8588734f8000823b7de/colorLogoPNG.png" group-title="Deportes" tvg-chno="506", Pluto TV Deportes
 https://stitcher.pluto.tv/stitch/hls/channel/5f1ac8588734f8000823b7de/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=50614198-c989-11ee-b390-cae9453c629f
 
-#EXTINF:-1 tvg-id="6582f002a620e3000813b329" tvg-name="Azteca Deportes Network" tvg-logo="https://images.pluto.tv/channels/6582f002a620e3000813b329/colorLogoPNG.png" group-title="Deportes" tvg-chno="829", Azteca Deportes Network
+#EXTINF:-1 channel-id="samsung-USBD1700016X9" tvg-id="USBD1700016X9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700016X9_20230912T232525SQUARE.png_20230912232526.png" tvg-chno="1254" group-title="Deportes" , Zona TUDN (LAT)
+https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
+
+#EXTINF:-1 tvg-id="6582f002a620e3000813b329" tvg-name="Azteca Deportes Network" tvg-logo="https://images.pluto.tv/channels/6582f002a620e3000813b329/colorLogoPNG.png" group-title="Deportes" tvg-chno="829", Azteca Deportes Network (LAT)
 https://stitcher.pluto.tv/stitch/hls/channel/6582f002a620e3000813b329/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=757a878f-c989-11ee-bbcf-2adc1a2bcfc2
 
 #EXTINF:-1 tvg-id="63f7e3f9dff38e00082a57af" tvg-name="ITV Deportes" tvg-logo="https://images.pluto.tv/channels/63f7e3f9dff38e00082a57af/colorLogoPNG.png" group-title="Deportes" tvg-chno="839", ITV Deportes (LAT)
@@ -926,14 +1009,26 @@ https://stitcher.pluto.tv/stitch/hls/channel/648c2a27976ee900085a8524/master.m3u
 #EXTINF:-1 channel-id="samsung-ESBD2600001ME" tvg-id="ESBD2600001ME" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2600001ME_20230809T053838SQUARE.png_20230809053839.png" tvg-chno="4509" group-title="Deportes Raqueta" , Tennis Channel (USA)
 https://i.mjh.nz/SamsungTVPlus/ESBD2600001ME.m3u8
 
+#EXTINF:-1 channel-id="samsung-USBC600001QL" tvg-id="USBC600001QL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC600001QL_20231114T233515SQUARE.png_20231114233516.png" tvg-chno="1154" group-title="Deportes Raqueta" , T2 (USA)
+https://i.mjh.nz/SamsungTVPlus/USBC600001QL.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBD4200016QR" tvg-id="USBD4200016QR" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD4200016QR_20240131T021433SQUARE.png_20240131021434.png" tvg-chno="1184" group-title="Deportes Raqueta" , PickleballTV (USA)
+https://i.mjh.nz/SamsungTVPlus/USBD4200016QR.m3u8
+
 #EXTINF:-1 tvg-id="billiards-tv" tvg-name="billiards-tv" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/80af06f2-a12e-4406-bd13-b932fd69fffe.png" group-title="Deportes Punteria" , World Billiards TV
 https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=7&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3722&ads.rtv_content_language=eng&ads.rtvid=271859&ads.streaming_id=8c54e1f6-3a23-4fb1-8908-74b202fea966&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=967
+
+#EXTINF:-1 channel-id="samsung-USBD12000183X" tvg-id="USBD12000183X" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000183X_20230627T214943SQUARE.png_20230627214943.png" tvg-chno="1186" group-title="Deportes Punteria" , Billiard TV (USA)
+https://i.mjh.nz/SamsungTVPlus/USBD12000183X.m3u8
 
 #EXTINF:-1 channel-id="pluto-647f07e74cfc2c0008a2e557" tvg-id="647f07e74cfc2c0008a2e557" tvg-logo="https://images.pluto.tv/channels/647f07e74cfc2c0008a2e557/colorLogoPNG.png" tvg-chno="900" group-title="Deportes" , DAZN TV (USA)
 https://r.mjh.nz/PlutoTV/647f07e74cfc2c0008a2e557-alt.m3u8
 
 #EXTINF:-1 tvg-id="5e1452156c07b50009d0230e" tvg-name="Strongman" tvg-logo="https://images.pluto.tv/channels/5e1452156c07b50009d0230e/colorLogoPNG.png" group-title="Deportes" tvg-chno="38", Strongman (DE)
 https://stitcher.pluto.tv/stitch/hls/channel/5e1452156c07b50009d0230e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=56d183bd-c989-11ee-b6a3-5acbcf2396cc
+
+#EXTINF:-1 channel-id="samsung-GBBC90001089" tvg-id="GBBC90001089" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC90001089_20230614T010130SQUARE.png_20230614010130.png" tvg-chno="4555" group-title="Deportes" , Strongman Champions League (USA)
+https://i.mjh.nz/SamsungTVPlus/GBBC90001089.m3u8
 
 #EXTINF:-1 channel-id="pluto-64b79c057d934100080b3583" tvg-id="64b79c057d934100080b3583" tvg-logo="https://images.pluto.tv/channels/64b79c057d934100080b3583/colorLogoPNG.png" tvg-chno="30" group-title="Deportes Fútbol" , DAZN INTL Football x Pluto TV (DE)
 https://r.mjh.nz/PlutoTV/64b79c057d934100080b3583-alt.m3u8
