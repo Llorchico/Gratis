@@ -6,6 +6,9 @@ https://i.mjh.nz/SamsungTVPlus/ESBC4100001NZ.m3u8
 #EXTINF:-1 channel-id="samsung-ESBC4100002AG" tvg-id="ESBC4100002AG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100002AG_20221109T010944SQUARE.png_20221109010944.png" tvg-chno="4105" group-title="TDT" , La 2
 https://i.mjh.nz/SamsungTVPlus/ESBC4100002AG.m3u8
 
+#EXTINF:-1 channel-id="samsung-ESBD3000002GP" tvg-id="ESBD3000002GP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3000002GP_20240228T030552SQUARE.png_20240228030553.png" tvg-chno="4107" group-title="Autonomica" , Canal Sur Andalucía
+https://i.mjh.nz/SamsungTVPlus/ESBD3000002GP.m3u8
+
 #EXTINF:-1 tvg-id="cgtn-es" tvg-name="cgtn-es" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/830975d8-58b0-443f-a276-f9eb93ef9364.jpeg" group-title="Internacional" , CGTN
 https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8?ads_amagi_channel=878&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=7&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=5546&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=fb9880f1-036a-48a5-b65f-0fba192bfbed&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 
@@ -701,6 +704,9 @@ https://i.mjh.nz/SamsungTVPlus/ESBD3200002V5.m3u8
 
 #EXTINF:-1 channel-id="samsung-ESBD2300003S5" tvg-id="ESBD2300003S5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2300003S5_20230712T021346SQUARE.png_20230712021346.png" tvg-chno="4623" group-title="Kids 24/7" , Rabbids : La invasion
 https://i.mjh.nz/SamsungTVPlus/ESBD2300003S5.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBD1400002W4" tvg-id="ESBD1400002W4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1400002W4_20240228T030529SQUARE.png_20240228030530.png" tvg-chno="4608" group-title="Kids 24/7" , Peter Rabbit
+https://i.mjh.nz/SamsungTVPlus/ESBD1400002W4.m3u8
 
 #EXTINF:-1 tvg-id="pitufo-tv" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/pitufotv_1920x1080_1.png" group-title="Kids 24/7" , Pitufo TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5444
