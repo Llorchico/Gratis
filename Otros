@@ -1,1 +1,19 @@
+#EXTM3U url-tvg="https://raw.github.com/matthuisman/i.mjh.nz/master/PlutoTV/es.xml.gz"
 
+#EXTINF:-1 tvg-id="65df339028730900089ed64b" tvg-name="Billiard TV" tvg-logo="https://images.pluto.tv/channels/65df339028730900089ed64b/colorLogoPNG.png" group-title="Deportes" tvg-chno="512", Billiard TV (USA)
+https://stitcher.pluto.tv/stitch/hls/channel/65df339028730900089ed64b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2f0b3e3e-8d2b-11ef-93d4-eea84dfb0b8b
+
+#EXTINF:-1 tvg-id="65251b51c52b3600083d2d9e" tvg-name="Ultimate Classic Wrestling" tvg-logo="https://images.pluto.tv/channels/65251b51c52b3600083d2d9e/colorLogoPNG.png" group-title="Lucha" tvg-chno="511", Ultimate Classic Wrestling (USA)
+https://stitcher.pluto.tv/stitch/hls/channel/65251b51c52b3600083d2d9e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2f0b3e3e-8d2b-11ef-93d4-eea84dfb0b8b
+
+#EXTINF:-1 tvg-id="654a5f7d4d6d8f00084ecaac" tvg-name="PFL MMA" tvg-logo="https://images.pluto.tv/channels/654a5f7d4d6d8f00084ecaac/colorLogoPNG.png" group-title="Lucha" tvg-chno="509", PFL MMA (USA)
+https://stitcher.pluto.tv/stitch/hls/channel/654a5f7d4d6d8f00084ecaac/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2f0b3e3e-8d2b-11ef-93d4-eea84dfb0b8b
+
+#EXTINF:-1 tvg-id="64c3af96e4391c0008e16d17" tvg-name="Unbeaten Sports" tvg-logo="https://images.pluto.tv/channels/64c3af96e4391c0008e16d17/colorLogoPNG.png" group-title="Lucha" tvg-chno="510", Unbeaten Sports (USA)
+https://stitcher.pluto.tv/stitch/hls/channel/64c3af96e4391c0008e16d17/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2f0b3e3e-8d2b-11ef-93d4-eea84dfb0b8b
+
+#EXTINF:-1 tvg-id="65c347ae3a116800078c93c5" tvg-name="Monster Jam" tvg-logo="https://images.pluto.tv/channels/65c347ae3a116800078c93c5/colorLogoPNG.png" group-title="Motor" tvg-chno="505", Monster Jam (USA)
+https://stitcher.pluto.tv/stitch/hls/channel/65c347ae3a116800078c93c5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2f0b3e3e-8d2b-11ef-93d4-eea84dfb0b8b
+
+#EXTINF:-1 tvg-id="65b3b6da4a10d800087d31ef" tvg-name="Car Chase" tvg-logo="https://images.pluto.tv/channels/65b3b6da4a10d800087d31ef/colorLogoPNG.png" group-title="Motor" tvg-chno="357", Car Chase (USA)
+https://stitcher.pluto.tv/stitch/hls/channel/65b3b6da4a10d800087d31ef/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2f0b3e3e-8d2b-11ef-93d4-eea84dfb0b8b
