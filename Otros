@@ -3,8 +3,32 @@
 #EXTINF:-1 tvg-id="65df339028730900089ed64b" tvg-name="Billiard TV" tvg-logo="https://images.pluto.tv/channels/65df339028730900089ed64b/colorLogoPNG.png" group-title="Deportes" tvg-chno="512", Billiard TV (USA)
 https://stitcher.pluto.tv/stitch/hls/channel/65df339028730900089ed64b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2f0b3e3e-8d2b-11ef-93d4-eea84dfb0b8b
 
+#EXTINF:-1 tvg-id="64b67f0424ade50008a3be17" tvg-name="DAZN Darts x Pluto TV" tvg-logo="https://images.pluto.tv/channels/64b67f0424ade50008a3be17/colorLogoPNG.png" group-title="Deportes" tvg-chno="41", DAZN Darts x Pluto TV (DE)
+https://stitcher.pluto.tv/stitch/hls/channel/64b67f0424ade50008a3be17/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5b675aa6-9204-11ef-9fc6-1aad86b479d6
+
+#EXTINF:-1 tvg-id="66a7afaa46762a00082cbe55" tvg-name="Squash TV" tvg-logo="https://images.pluto.tv/channels/66a7afaa46762a00082cbe55/colorLogoPNG.png" group-title="Deportes" tvg-chno="42", Squash TV (DE)
+https://stitcher.pluto.tv/stitch/hls/channel/66a7afaa46762a00082cbe55/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5b675aa6-9204-11ef-9fc6-1aad86b479d6
+
+#EXTINF:-1 tvg-id="5e1452156c07b50009d0230e" tvg-name="Strongman" tvg-logo="https://images.pluto.tv/channels/5e1452156c07b50009d0230e/colorLogoPNG.png" group-title="Deportes" tvg-chno="49", Strongman (DE)
+https://stitcher.pluto.tv/stitch/hls/channel/5e1452156c07b50009d0230e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5b675aa6-9204-11ef-9fc6-1aad86b479d6
+
+#EXTINF:-1 tvg-id="5be1be871843b56328bc3ef1" tvg-name="Action Sports" tvg-logo="https://images.pluto.tv/channels/5be1be871843b56328bc3ef1/colorLogoPNG.png" group-title="Deportes" tvg-chno="48", Action Sports (DE)
+https://stitcher.pluto.tv/stitch/hls/channel/5be1be871843b56328bc3ef1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5b675aa6-9204-11ef-9fc6-1aad86b479d6
+
+#EXTINF:-1 tvg-id="6683f7fe36a2f9000804940c" tvg-name="DAZN Handball x Pluto TV" tvg-logo="https://images.pluto.tv/channels/6683f7fe36a2f9000804940c/colorLogoPNG.png" group-title="Deportes Futbol" tvg-chno="40", DAZN Handball x Pluto TV (DE)
+https://stitcher.pluto.tv/stitch/hls/channel/6683f7fe36a2f9000804940c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5b675aa6-9204-11ef-9fc6-1aad86b479d6
+
+#EXTINF:-1 tvg-id="64afe50c5dc16600087f3227" tvg-name="DAZN Heldinnen x Pluto TV" tvg-logo="https://images.pluto.tv/channels/64afe50c5dc16600087f3227/colorLogoPNG.png" group-title="Deportes Futbol" tvg-chno="43", DAZN Heldinnen x Pluto TV (DE)
+https://stitcher.pluto.tv/stitch/hls/channel/64afe50c5dc16600087f3227/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5b675aa6-9204-11ef-9fc6-1aad86b479d6
+
+#EXTINF:-1 tvg-id="660e97bce8fba8000853d43f" tvg-name="Scooore" tvg-logo="https://images.pluto.tv/channels/660e97bce8fba8000853d43f/colorLogoPNG.png" group-title="Deportes Futbol" tvg-chno="31", Scooore (DE)
+https://stitcher.pluto.tv/stitch/hls/channel/660e97bce8fba8000853d43f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5b675aa6-9204-11ef-9fc6-1aad86b479d6
+
 #EXTINF:-1 tvg-id="65251b51c52b3600083d2d9e" tvg-name="Ultimate Classic Wrestling" tvg-logo="https://images.pluto.tv/channels/65251b51c52b3600083d2d9e/colorLogoPNG.png" group-title="Lucha" tvg-chno="511", Ultimate Classic Wrestling (USA)
 https://stitcher.pluto.tv/stitch/hls/channel/65251b51c52b3600083d2d9e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2f0b3e3e-8d2b-11ef-93d4-eea84dfb0b8b
+
+#EXTINF:-1 tvg-id="64df7a9a44fe100009b6ac5a" tvg-name="DAZN Combat" tvg-logo="https://images.pluto.tv/channels/64df7a9a44fe100009b6ac5a/colorLogoPNG.png" group-title="Lucha" tvg-chno="860", DAZN Combat
+https://stitcher.pluto.tv/stitch/hls/channel/64df7a9a44fe100009b6ac5a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=661fb79e-9204-11ef-840f-dee4340fe607
 
 #EXTINF:-1 tvg-id="654a5f7d4d6d8f00084ecaac" tvg-name="PFL MMA" tvg-logo="https://images.pluto.tv/channels/654a5f7d4d6d8f00084ecaac/colorLogoPNG.png" group-title="Lucha" tvg-chno="509", PFL MMA (USA)
 https://stitcher.pluto.tv/stitch/hls/channel/654a5f7d4d6d8f00084ecaac/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2f0b3e3e-8d2b-11ef-93d4-eea84dfb0b8b
@@ -17,3 +41,12 @@ https://stitcher.pluto.tv/stitch/hls/channel/65c347ae3a116800078c93c5/master.m3u
 
 #EXTINF:-1 tvg-id="65b3b6da4a10d800087d31ef" tvg-name="Car Chase" tvg-logo="https://images.pluto.tv/channels/65b3b6da4a10d800087d31ef/colorLogoPNG.png" group-title="Motor" tvg-chno="357", Car Chase (USA)
 https://stitcher.pluto.tv/stitch/hls/channel/65b3b6da4a10d800087d31ef/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2f0b3e3e-8d2b-11ef-93d4-eea84dfb0b8b
+
+#EXTINF:-1 tvg-id="5ff4b9ccf938f8000779eb99" tvg-name="One Piece" tvg-logo="https://images.pluto.tv/channels/5ff4b9ccf938f8000779eb99/colorLogoPNG-1663941540755.png" group-title="Kids 24/7" tvg-chno="1284", One Piece (VOSE)
+https://stitcher.pluto.tv/stitch/hls/channel/5ff4b9ccf938f8000779eb99/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=661fb79e-9204-11ef-840f-dee4340fe607
+
+#EXTINF:-1 tvg-id="620bfa7df72827000703ddb1" tvg-name="Stargate" tvg-logo="https://images.pluto.tv/channels/620bfa7df72827000703ddb1/colorLogoPNG.png" group-title="Series 24/7" tvg-chno="860", Stargate
+https://stitcher.pluto.tv/stitch/hls/channel/620bfa7df72827000703ddb1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=69336186-9204-11ef-97cd-8e6b99399443
+
+#EXTINF:-1 tvg-id="5ce4475cd43850831ca91ce7" tvg-name="Doctor Who Classic" tvg-logo="https://images.pluto.tv/channels/5ce4475cd43850831ca91ce7/colorLogoPNG.png" group-title="Series 24/7" tvg-chno="870", Doctor Who Classic
+https://stitcher.pluto.tv/stitch/hls/channel/5ce4475cd43850831ca91ce7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=69336186-9204-11ef-97cd-8e6b99399443
