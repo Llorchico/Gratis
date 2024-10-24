@@ -144,34 +144,31 @@ https://stitcher.pluto.tv/stitch/hls/channel/60cc807324d60a0007708dc8/master.m3u
 #EXTINF:-1 tvg-id="60d3583ef310610007fb02b1" tvg-name="Euronews" tvg-logo="https://images.pluto.tv/channels/60d3583ef310610007fb02b1/colorLogoPNG.png" group-title="Noticias" tvg-chno="750", Euronews
 https://stitcher.pluto.tv/stitch/hls/channel/60d3583ef310610007fb02b1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2f0b3e3e-8d2b-11ef-93d4-eea84dfb0b8b
 
-#EXTINF:-1 tvg-id="6076cd1df8576d0007c82193" tvg-name="VH1 Classics" tvg-logo="https://images.pluto.tv/channels/6076cd1df8576d0007c82193/colorLogoPNG.png" group-title="Musica" tvg-chno="800", VH1 Classics
+#EXTINF:-1 tvg-id="6076cd1df8576d0007c82193" tvg-name="VH1 Classics" tvg-logo="https://images.pluto.tv/channels/6076cd1df8576d0007c82193/colorLogoPNG.png" group-title="Música" tvg-chno="800", VH1 Classics
 https://stitcher.pluto.tv/stitch/hls/channel/6076cd1df8576d0007c82193/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2f0b3e3e-8d2b-11ef-93d4-eea84dfb0b8b
 
-#EXTINF:-1 tvg-id="65786d29dfed030008ce2fa7" tvg-name="MTV Rock" tvg-logo="https://images.pluto.tv/channels/65786d29dfed030008ce2fa7/colorLogoPNG.png" group-title="Musica" tvg-chno="801", MTV Rock
+#EXTINF:-1 tvg-id="65786d29dfed030008ce2fa7" tvg-name="MTV Rock" tvg-logo="https://images.pluto.tv/channels/65786d29dfed030008ce2fa7/colorLogoPNG.png" group-title="Música" tvg-chno="801", MTV Rock
 https://stitcher.pluto.tv/stitch/hls/channel/65786d29dfed030008ce2fa7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2f0b3e3e-8d2b-11ef-93d4-eea84dfb0b8b
 
-#EXTINF:-1 tvg-id="60a26a056d55b30007918d5a" tvg-name="MTV Music Made in Spain" tvg-logo="https://images.pluto.tv/channels/60a26a056d55b30007918d5a/colorLogoPNG.png" group-title="Musica" tvg-chno="802", MTV Music Made in Spain
+#EXTINF:-1 tvg-id="60a26a056d55b30007918d5a" tvg-name="MTV Music Made in Spain" tvg-logo="https://images.pluto.tv/channels/60a26a056d55b30007918d5a/colorLogoPNG.png" group-title="Música" tvg-chno="802", MTV Music Made in Spain
 https://stitcher.pluto.tv/stitch/hls/channel/60a26a056d55b30007918d5a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2f0b3e3e-8d2b-11ef-93d4-eea84dfb0b8b
 
-#EXTINF:-1 tvg-id="668677f7fd9eb200087b673a" tvg-name="MTV Biggest Pop" tvg-logo="https://images.pluto.tv/channels/668677f7fd9eb200087b673a/colorLogoPNG.png" group-title="Musica" tvg-chno="803", MTV Biggest Pop
+#EXTINF:-1 tvg-id="668677f7fd9eb200087b673a" tvg-name="MTV Biggest Pop" tvg-logo="https://images.pluto.tv/channels/668677f7fd9eb200087b673a/colorLogoPNG.png" group-title="Música" tvg-chno="803", MTV Biggest Pop
 https://stitcher.pluto.tv/stitch/hls/channel/668677f7fd9eb200087b673a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2f0b3e3e-8d2b-11ef-93d4-eea84dfb0b8b
 
-#EXTINF:-1 tvg-id="64db2c974c5ed80008f68b6d" tvg-name="MTV EMA" tvg-logo="https://images.pluto.tv/channels/64db2c974c5ed80008f68b6d/colorLogoPNG.png" group-title="Musica" tvg-chno="804", MTV EMA
-https://stitcher.pluto.tv/stitch/hls/channel/64db2c974c5ed80008f68b6d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2f0b3e3e-8d2b-11ef-93d4-eea84dfb0b8b
-
-#EXTINF:-1 tvg-id="668677b774f5ec0008124f33" tvg-name="MTV New Music" tvg-logo="https://images.pluto.tv/channels/668677b774f5ec0008124f33/colorLogoPNG.png" group-title="Musica" tvg-chno="805", MTV New Music
+#EXTINF:-1 tvg-id="668677b774f5ec0008124f33" tvg-name="MTV New Music" tvg-logo="https://images.pluto.tv/channels/668677b774f5ec0008124f33/colorLogoPNG.png" group-title="Música" tvg-chno="805", MTV New Music
 https://stitcher.pluto.tv/stitch/hls/channel/668677b774f5ec0008124f33/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2f0b3e3e-8d2b-11ef-93d4-eea84dfb0b8b
 
-#EXTINF:-1 tvg-id="668678bc0642e500080f90c6" tvg-name="Yo! MTV" tvg-logo="https://images.pluto.tv/channels/668678bc0642e500080f90c6/colorLogoPNG.png" group-title="Musica" tvg-chno="806", Yo! MTV
+#EXTINF:-1 tvg-id="668678bc0642e500080f90c6" tvg-name="Yo! MTV" tvg-logo="https://images.pluto.tv/channels/668678bc0642e500080f90c6/colorLogoPNG.png" group-title="Música" tvg-chno="806", Yo! MTV
 https://stitcher.pluto.tv/stitch/hls/channel/668678bc0642e500080f90c6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2f0b3e3e-8d2b-11ef-93d4-eea84dfb0b8b
 
-#EXTINF:-1 tvg-id="61ea759737679900078ff559" tvg-name="MTV Party Music" tvg-logo="https://images.pluto.tv/channels/61ea759737679900078ff559/colorLogoPNG.png" group-title="Musica" tvg-chno="808", MTV Party Music
+#EXTINF:-1 tvg-id="61ea759737679900078ff559" tvg-name="MTV Party Music" tvg-logo="https://images.pluto.tv/channels/61ea759737679900078ff559/colorLogoPNG.png" group-title="Música" tvg-chno="808", MTV Party Music
 https://stitcher.pluto.tv/stitch/hls/channel/61ea759737679900078ff559/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2f0b3e3e-8d2b-11ef-93d4-eea84dfb0b8b
 
-#EXTINF:-1 tvg-id="6686796619311200085310a0" tvg-name="MTV Flow Latino" tvg-logo="https://images.pluto.tv/channels/6686796619311200085310a0/colorLogoPNG.png" group-title="Musica" tvg-chno="809", MTV Flow Latino
+#EXTINF:-1 tvg-id="6686796619311200085310a0" tvg-name="MTV Flow Latino" tvg-logo="https://images.pluto.tv/channels/6686796619311200085310a0/colorLogoPNG.png" group-title="Música" tvg-chno="809", MTV Flow Latino
 https://stitcher.pluto.tv/stitch/hls/channel/6686796619311200085310a0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2f0b3e3e-8d2b-11ef-93d4-eea84dfb0b8b
 
-#EXTINF:-1 tvg-id="65787eab32c1b300089a84d7" tvg-name="MTV Reggaeton" tvg-logo="https://images.pluto.tv/channels/65787eab32c1b300089a84d7/colorLogoPNG.png" group-title="Musica" tvg-chno="810", MTV Reggaeton
+#EXTINF:-1 tvg-id="65787eab32c1b300089a84d7" tvg-name="MTV Reggaeton" tvg-logo="https://images.pluto.tv/channels/65787eab32c1b300089a84d7/colorLogoPNG.png" group-title="Música" tvg-chno="810", MTV Reggaeton
 https://stitcher.pluto.tv/stitch/hls/channel/65787eab32c1b300089a84d7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2f0b3e3e-8d2b-11ef-93d4-eea84dfb0b8b
 
 #EXTINF:-1 tvg-id="660c29f80cd4630008f1547c" tvg-name="FIFA+" tvg-logo="https://images.pluto.tv/channels/660c29f80cd4630008f1547c/colorLogoPNG.png" group-title="Deportes Futbol" tvg-chno="501", FIFA+
