@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.github.com/matthuisman/i.mjh.nz/master/PlutoTV/es.xml.gz"
+#EXTM3U url-tvg="https://raw.github.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml.gz"
 
 #EXTINF:-1 tvg-id="65df339028730900089ed64b" tvg-name="Billiard TV" tvg-logo="https://images.pluto.tv/channels/65df339028730900089ed64b/colorLogoPNG.png" group-title="Deportes" tvg-chno="512", Billiard TV (USA)
 https://stitcher.pluto.tv/stitch/hls/channel/65df339028730900089ed64b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2f0b3e3e-8d2b-11ef-93d4-eea84dfb0b8b
