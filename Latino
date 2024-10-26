@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.github.com/matthuisman/i.mjh.nz/master/PlutoTV/mx.xml.gz"
+#EXTM3U url-tvg="https://raw.github.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml.gz"
 
 #EXTINF:-1 tvg-id="5dcde197f6591d0009839e04" tvg-name="Pluto TV Reality" tvg-logo="https://images.pluto.tv/channels/5dcde197f6591d0009839e04/colorLogoPNG.png" group-title="Entretenimiento" tvg-chno="380", Pluto TV Reality
 https://stitcher.pluto.tv/stitch/hls/channel/5dcde197f6591d0009839e04/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=661fb79e-9204-11ef-840f-dee4340fe607
