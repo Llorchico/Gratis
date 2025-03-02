@@ -9,10 +9,10 @@ https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-id="TV3.TV" tvg-logo="https://pbs.twimg.com/profile_images/1269286508625891328/rVes9BS__200x200.png" group-title="Autonomica" tvg-name="TV3",TV3 GEO CAT
 https://directes3-tv-cat.3catdirectes.cat/live-content/tv3-hls/master.m3u8
 
-#EXTINF:-1 tvg-id="C33.TV" tvg-logo="https://graph.facebook.com/Canal33/picture?width=200&height=200" group-title="Autonomica" tvg-name="33",33 GEO
+#EXTINF:-1 tvg-id="El 33 Catalunya" tvg-logo="https://graph.facebook.com/Canal33/picture?width=200&height=200" group-title="Autonomica" tvg-name="El 33 Catalunya",33 GEO
 https://directes-tv-es.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8
 
-#EXTINF:-1 tvg-id="SX3.TV" tvg-logo="https://graph.facebook.com/SomSX3/picture?width=200&height=200" group-title="Autonomica" group-title="Kids" tvg-name="SX3",SX3 GEO
+#EXTINF:-1 tvg-id="SX3" tvg-logo="https://graph.facebook.com/SomSX3/picture?width=200&height=200" group-title="Autonomica" group-title="Kids" tvg-name="SX3",SX3 GEO
 https://directes-tv-es.3catdirectes.cat/live-content/super3-hls/master.m3u8
 
 #EXTINF:-1 tvg-id="Xarxa_Televisio_Hospitalet.TV" tvg-logo="https://graph.facebook.com/lhdigital/picture?width=200&height=200" group-title="Autonomica" tvg-name="TV L'Hospitalet",TV L'Hospitalet
@@ -48,7 +48,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadees16intern
 #EXTVLCOPT:http-referrer=https://player.streamingconnect.com/
 https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8  
 
-#EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="Noticias" tvg-name="24h",24h
+#EXTINF:-1 tvg-id="24 Horas" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="Noticias" tvg-name="24 Horas",24 Horas
 https://d3pfmk89wc0vm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nlow3qkp9tmdm/24H_ES.m3u8
 
 #EXTINF:-1 tvg-id="Euronews.TV" tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200" group-title="Noticias" tvg-name="Euronews",Euronews
@@ -63,7 +63,7 @@ https://streaming013.gestec-video.com/hls/negociostv.m3u8
 #EXTINF:-1 tvg-id="ElConfidencial.TV" tvg-logo="https://graph.facebook.com/elconfidencial/picture?width=200&height=200" group-title="Noticias" tvg-name="El Confidencial",El Confidencial
 https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
 
-#EXTINF:-1 tvg-id="DW.TV" tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200" group-title="Noticias" tvg-name="DW Alemania",DW Alemania
+#EXTINF:-1 tvg-id="Deutsche W" tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200" group-title="Noticias" tvg-name="Deutsche W",DW Alemania
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/CanalSurNoticias/picture?width=200&height=200" group-title="Noticias" tvg-name="Canal Sur Más Noticias",Canal Sur Más Noticias
@@ -72,10 +72,10 @@ https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Clan.TV" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" group-title="Kids" tvg-name="Clan",Clan
 https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8
 
-#EXTINF:-1 tvg-id="Kidz.TV" tvg-logo="https://graph.facebook.com/atresplayerkidz/picture?width=200&height=200" group-title="Kids" tvg-name="Kidz",Kidz
+#EXTINF:-1 tvg-id="Kidz" tvg-logo="https://graph.facebook.com/atresplayerkidz/picture?width=200&height=200" group-title="Kids" tvg-name="Kidz",Kidz
 https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61/2.m3u8
 
-#EXTINF:-1 tvg-id="A3P_Multicine.TV" tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" group-title="Cine" tvg-name="Atresplayer Multicine",Atresplayer Multicine
+#EXTINF:-1 tvg-id="Multicine atresplayer" tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" group-title="Cine" tvg-name="Multicine atresplayer",Atresplayer Multicine
 https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc.m3u8
 
 #EXTINF:-1 tvg-id="Cines Verdi TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cine%20Feel%20Good.png" group-title="Cine" tvg-name="Cines Verdi TV",Cine Verdi
@@ -87,7 +87,7 @@ https://daiconnect.com/live/hls/tvup/tvfy-feelgood/b8ee129e0585ae0c1eb5b4187f8e4
 #EXTINF:-1 tvg-id="Planeta de Cine" tvg-logo="https://media.tvup.cloud/canales/color_lg_665edba1975da069e69b59c3.png" group-title="Cine" tvg-name="Planeta de Cine",Planeta de Cine
 https://daiconnect.com/live/hls/tvup/tvfy-planetadecine/56f0832110a1bbaecc3a45a27ddba1d9/index.m3u8?ApPW=774&ApPH=677&USrGDPRC=CQNOsMAQNOsMAAGABCENBdFgAP_gAEPgAAiQKSlB7CNMBWlAcXhnCPsAeIUfxAAhIkAABBAJggABCIAAMIAA0GAgIAiAACAKGBAAskQAIAAAAABAQEAAIIgBoCAMIECQAAAAICBAAAIBAQdQAAgDAgEAIAAAgFIABAQAkAIEQNIIQEAACAAiBFAgIAABAACBAAAABIAEBAAIIgAMACxEAAAAQASAAQMAQEAABEEAABgGABAAAAEEABCRVQAEAAAAAiCkMBIAB4APwAjgDLAI4ATQA14B2wD_gI9ATEAxYBrwD5QH7gQMAnKBSEAYJAkAAWABUADgAIAAXwAyADQAHgARAAmABvAD0AH4AQgAiABNQDKAMsAc4A_QCKAElAKuAXMA2gBxIEegSIAnYBQ4CkQF5gMkAawA5MCcwE7gJ4AUlHQKwAFgAVAA4ACAAF8AMgA0AB4AEQAJkAXABdADEAG8APQAfgBEACaAGUANEAc4A_YCKAIsAR0AkoBVwC5gF5ANoAcSBHoEiAJ2AUOAuABeYDJAGWANNAawA5MCbwE5gJ3ATwApKQgIgALAC4AGIAN4AegBzgEUAKuAXMA2gCPQFogLgAnMBO4CeAFJSUBMABYAHAAeABEACYAFwAMQAiACrgFzgR6BIgC8wGSAMsAawBOYCdwE8AKSlIEwACwAKgAcABBADIANAAeABEACYAFIAMQAfgBEADKAGiAOcAfoBFgCOgElAKuAXMAvIBtAD2wI9AkQBOwChwFwALzAZIAywBrADkwJvATmAncBPACkpaAIAocCcwE7gJ4A.YAAAAAAAAAAA&UGDPR=1&DLg=es&ApStURL=https%3A%2F%2Ftivify.tv&DAdID=%22228a9b02-0a81-48ab-9f0f-b4731818b95c%22&DAdIDT=sessionid&UUA=Mozilla%2F5.0+%28Macintosh%3B+Intel+Mac+OS+X+10_15_7%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F132.0.0.0+Safari%2F537.36+OPR%2F117.0.0.0&UIP=&ApNm=Tivify&ApV=4.3.3&DT=browser&DMk=WEBAPP&DMdl=Opera&ApBdl=tivify.tv&DID=%22228a9b02-0a81-48ab-9f0f-b4731818b95c%22&tvfy_env=desktop&lmt=&ic=IAB16&content_genre=pets&language=es&requestuid=6293b6e2-c2d8-411a-9329-aefef66c8d46
 
-#EXTINF:-1 tvg-id="Film&amp;Co" tvg-logo="https://media.tvup.cloud/canales/color_lg_628cdee165774400228d971f.png" group-title="Cine" tvg-name="Film&amp;Co",Film & Go
+#EXTINF:-1 tvg-id="Film&Co" tvg-logo="https://media.tvup.cloud/canales/color_lg_628cdee165774400228d971f.png" group-title="Cine" tvg-name="Film&Co",Film & Go
 https://daiconnect.com/live/hls/tvup/tvfy-filmco/3a89a498229b9adc9cb8ed05535ab980/index.m3u8?ApPW=774&ApPH=677&USrGDPRC=CQNOsMAQNOsMAAGABCENBdFgAP_gAEPgAAiQKSlB7CNMBWlAcXhnCPsAeIUfxAAhIkAABBAJggABCIAAMIAA0GAgIAiAACAKGBAAskQAIAAAAABAQEAAIIgBoCAMIECQAAAAICBAAAIBAQdQAAgDAgEAIAAAgFIABAQAkAIEQNIIQEAACAAiBFAgIAABAACBAAAABIAEBAAIIgAMACxEAAAAQASAAQMAQEAABEEAABgGABAAAAEEABCRVQAEAAAAAiCkMBIAB4APwAjgDLAI4ATQA14B2wD_gI9ATEAxYBrwD5QH7gQMAnKBSEAYJAkAAWABUADgAIAAXwAyADQAHgARAAmABvAD0AH4AQgAiABNQDKAMsAc4A_QCKAElAKuAXMA2gBxIEegSIAnYBQ4CkQF5gMkAawA5MCcwE7gJ4AUlHQKwAFgAVAA4ACAAF8AMgA0AB4AEQAJkAXABdADEAG8APQAfgBEACaAGUANEAc4A_YCKAIsAR0AkoBVwC5gF5ANoAcSBHoEiAJ2AUOAuABeYDJAGWANNAawA5MCbwE5gJ3ATwApKQgIgALAC4AGIAN4AegBzgEUAKuAXMA2gCPQFogLgAnMBO4CeAFJSUBMABYAHAAeABEACYAFwAMQAiACrgFzgR6BIgC8wGSAMsAawBOYCdwE8AKSlIEwACwAKgAcABBADIANAAeABEACYAFIAMQAfgBEADKAGiAOcAfoBFgCOgElAKuAXMAvIBtAD2wI9AkQBOwChwFwALzAZIAywBrADkwJvATmAncBPACkpaAIAocCcwE7gJ4A.YAAAAAAAAAAA&UGDPR=1&DLg=es&ApStURL=https%3A%2F%2Ftivify.tv&DAdID=%22228a9b02-0a81-48ab-9f0f-b4731818b95c%22&DAdIDT=sessionid&UUA=Mozilla%2F5.0+%28Macintosh%3B+Intel+Mac+OS+X+10_15_7%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F132.0.0.0+Safari%2F537.36+OPR%2F117.0.0.0&UIP=&ApNm=Tivify&ApV=4.3.3&DT=browser&DMk=WEBAPP&DMdl=Opera&ApBdl=tivify.tv&DID=%22228a9b02-0a81-48ab-9f0f-b4731818b95c%22&tvfy_env=desktop&lmt=&ic=IAB1-5&content_genre=Movies&language=es&rating=TV-14&requestuid=2138bb7c-9c95-45fc-aece-fe89b12b4aec
 
 #EXTINF:-1 tvg-id="Cine Friki" tvg-logo="https://media.tvup.cloud/canales/color_lg_641098c475965f001c37812a.png" group-title="Cine" tvg-name="Cine Friki",Cine Friki
@@ -108,16 +108,16 @@ https://directes-tv-es.3catdirectes.cat/live-origin/esport3-hls/master.m3u8
 #EXTINF:-1 tvg-id="RMTV.TV" tvg-logo="https://graph.facebook.com/RealMadrid/picture?width=200&height=200" group-title="Deportes" tvg-name="Real Madrid TV",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 
-#EXTINF:-1 tvg-id="La1_CAT.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Autonomica" tvg-name="La 1 Catalunya",La 1 Catalunya
+#EXTINF:-1 tvg-id="La 1 Catalunya" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Autonomica" tvg-name="La 1 Catalunya",La 1 Catalunya
 https://rtvelivestream.akamaized.net/rtvesec/cat/la1_cat_main_dvr.m3u8
 
-#EXTINF:-1 tvg-id="La2_CAT.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Autonomica" tvg-name="La 2 Catalunya",La 2 Catalunya
+#EXTINF:-1 tvg-id="La 2 Catalunya" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Autonomica" tvg-name="La 2 Catalunya",La 2 Catalunya
 https://rtvelivestream.akamaized.net/rtvesec/cat/la2_cat_main_dvr.m3u8
 
 #EXTINF:-1 tvg-id="CanalSurA.TV" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="Autonomica" tvg-name="Canal Sur Andalucía",Canal Sur Andalucía
 https://d35x6iaiw8f75z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbwsl0jk1bvoo/canal_sur_andalucia_es.m3u8
 
-#EXTINF:-1 tvg-id="CMM.TV" tvg-logo="https://graph.facebook.com/CMMediaes/picture?width=200&height=200" group-title="Autonomica" tvg-name="Castilla-La Mancha Media",Castilla-La Mancha Media
+#EXTINF:-1 tvg-id="CMM TV" tvg-logo="https://graph.facebook.com/CMMediaes/picture?width=200&height=200" group-title="Autonomica" tvg-name="CMM TV",Castilla-La Mancha Media
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 CrKey/1.44.191160
 https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_sqa9madm/protocol/https/format/applehttp/a.m3u8
 
@@ -133,13 +133,13 @@ https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main_dvr.m3u8
 #EXTINF:-1 tvg-id="TVC.TV" tvg-logo="https://pbs.twimg.com/profile_images/1269286508625891328/rVes9BS__200x200.png" group-title="Internacional" tvg-name="TV3.CAT",TV3.CAT
 https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/master.m3u8
 
-#EXTINF:-1 tvg-id="ETBSAT.TV" tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200" group-title="Internacional" tvg-name="ETB Basque",ETB Basque
+#EXTINF:-1 tvg-id="EITB Basque" tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200" group-title="Internacional" tvg-name="ETB Basque",ETB Basque
 https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
 
 #EXTINF:-1 tvg-id="TeleMadridInt.TV" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" group-title="Internacional" tvg-name="Telemadrid Internacional",Telemadrid Internacional
 https://new-international-23-secure2.akamaized.net/index.m3u8
 
-EXTINF:-1 tvg-id="CGTN.TV" tvg-logo="https://graph.facebook.com/cgtnenespanol/picture?width=200&height=200" group-title="Internacional" tvg-name="CGTN",CGTN
+EXTINF:-1 tvg-id="CGTN Español" tvg-logo="https://graph.facebook.com/cgtnenespanol/picture?width=200&height=200" group-title="Internacional" tvg-name="CGTN Español",CGTN
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1645382928422109184/lUdeHBAs_200x200.jpg" group-title="Internacional" tvg-name="Hispan TV Iran",Hispan TV Iran
@@ -148,28 +148,28 @@ https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
 #EXTINF:-1 tvg-id="RTVE_Conciertos_R3.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Musica" tvg-name="RTVE Conciertos Radio 3",RTVE Conciertos Radio 3
 https://ztnr.rtve.es/ztnr/6924117.m3u8
 
-#EXTINF:-1 tvg-id="SolMusica.TV" tvg-logo="https://graph.facebook.com/solmusica/picture?width=200&height=200" group-title="Musica" tvg-name="Sol Música España",Sol Música España
+#EXTINF:-1 tvg-id="Sol Música" tvg-logo="https://graph.facebook.com/solmusica/picture?width=200&height=200" group-title="Musica" tvg-name="Sol Música",Sol Música España
 https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
 
-#EXTINF:-1 tvg-id="A3P_MentesInqui.TV" tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" group-title="Programas 24/7" tvg-name="Atresplayer Mentes Inquietas",Atresplayer Mentes Inquietas
+#EXTINF:-1 tvg-id="Inquietos atresplayer" tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" group-title="Programas 24/7" tvg-name="Inquietos atresplayer",Atresplayer Mentes Inquietas
 https://fast-channels.atresmedia.com/648ef3162bfab0e4587e0d61/648ef3162bfab0e4587e0d61.m3u8
 
-#EXTINF:-1 tvg-id="A3P_Hormiguero.TV" tvg-logo="https://graph.facebook.com/elhormiguero/picture?width=200&height=200" group-title="Programas 24/7" tvg-name="El Hormiguero",El Hormiguero
+#EXTINF:-1 tvg-id="El Hormiguero" tvg-logo="https://graph.facebook.com/elhormiguero/picture?width=200&height=200" group-title="Programas 24/7" tvg-name="El Hormiguero",El Hormiguero
 https://fast-channels.atresmedia.com/648ef5882bfab0e4627e0d61/648ef5882bfab0e4627e0d61.m3u8
 
-#EXTINF:-1 tvg-id="A3P_ClubComedia.TV" tvg-logo="https://graph.facebook.com/ElClubDeLaComediaEnlaSexta/picture?width=200&height=200" group-title="Programas 24/7" tvg-name="El club de la comedia",El club de la comedia
+#EXTINF:-1 tvg-id="El club de la comedia" tvg-logo="https://graph.facebook.com/ElClubDeLaComediaEnlaSexta/picture?width=200&height=200" group-title="Programas 24/7" tvg-name="El club de la comedia",El club de la comedia
 https://fast-channels.atresmedia.com/648f47f7a2ffb0e40aeff3ad/648f47f7a2ffb0e40aeff3ad.m3u8
 
-#EXTINF:-1 tvg-id="A3P_EqInvestigacion.TV" tvg-logo="https://graph.facebook.com/EqInvestigacion/picture?width=200&height=200" group-title="Programas 24/7" tvg-name="Equipo de investigación",Equipo de investigación
+#EXTINF:-1 tvg-id="Equipo de investigación" tvg-logo="https://graph.facebook.com/EqInvestigacion/picture?width=200&height=200" group-title="Programas 24/7" tvg-name="Equipo de investigación",Equipo de investigación
 https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc.m3u8
 
-#EXTINF:-1 tvg-id="RTVE_Epoca.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Programas 24/7" tvg-name="RTVE Maestros de la Moda",RTVE Maestros de la Moda
+#EXTINF:-1 tvg-id="Maestros de la moda" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Programas 24/7" tvg-name="Maestros de la Moda",RTVE Maestros de la Moda
 https://ztnr.rtve.es/ztnr/2472035.m3u8
 
-#EXTINF:-1 tvg-id="RTVE_Series.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Programas 24/7" tvg-name="RTVE Saber y ganar",RTVE Saber y ganar
+#EXTINF:-1 tvg-id="Saber y ganar" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Programas 24/7" tvg-name="Saber y ganar",RTVE Saber y ganar
 https://ztnr.rtve.es/ztnr/6922467.m3u8
 
-#EXTINF:-1 tvg-id="RTVE_LateXou.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Programas 24/7" tvg-name="RTVE Late Xou",RTVE Late Xou
+#EXTINF:-1 tvg-id="LateXou" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Programas 24/7" tvg-name="LateXou",RTVE Late Xou
 https://ztnr.rtve.es/ztnr/2472037.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/som3Cat/picture?width=200&height=200" group-title="Programas 24/7" tvg-name="3CAT Joc de Cartes",3CAT Joc de Cartes
@@ -178,25 +178,25 @@ https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel1/hls.m3u8
 #EXTINF:-1 tvg-id="Doctor Who" tvg-logo="https://media.tvup.cloud/canales/color_lg_678624b0846f057cce323177.png" group-title=Series 24/7" tvg-name="Doctor Who", Doctor Who
 https://daiconnect.com/live/hls/tvup/tvfy-doctorwho/b0e30b54acb1f622f314fb633d787baa/index.m3u8?ApPW=883&ApPH=497&USrGDPRC=CQNOsMAQNOsMAAGABCENBdFgAP_gAEPgAAiQKSlB7CNMBWlAcXhnCPsAeIUfxAAhIkAABBAJggABCIAAMIAA0GAgIAiAACAKGBAAskQAIAAAAABAQEAAIIgBoCAMIECQAAAAICBAAAIBAQdQAAgDAgEAIAAAgFIABAQAkAIEQNIIQEAACAAiBFAgIAABAACBAAAABIAEBAAIIgAMACxEAAAAQASAAQMAQEAABEEAABgGABAAAAEEABCRVQAEAAAAAiCkMBIAB4APwAjgDLAI4ATQA14B2wD_gI9ATEAxYBrwD5QH7gQMAnKBSEAYJAkAAWABUADgAIAAXwAyADQAHgARAAmABvAD0AH4AQgAiABNQDKAMsAc4A_QCKAElAKuAXMA2gBxIEegSIAnYBQ4CkQF5gMkAawA5MCcwE7gJ4AUlHQKwAFgAVAA4ACAAF8AMgA0AB4AEQAJkAXABdADEAG8APQAfgBEACaAGUANEAc4A_YCKAIsAR0AkoBVwC5gF5ANoAcSBHoEiAJ2AUOAuABeYDJAGWANNAawA5MCbwE5gJ3ATwApKQgIgALAC4AGIAN4AegBzgEUAKuAXMA2gCPQFogLgAnMBO4CeAFJSUBMABYAHAAeABEACYAFwAMQAiACrgFzgR6BIgC8wGSAMsAawBOYCdwE8AKSlIEwACwAKgAcABBADIANAAeABEACYAFIAMQAfgBEADKAGiAOcAfoBFgCOgElAKuAXMAvIBtAD2wI9AkQBOwChwFwALzAZIAywBrADkwJvATmAncBPACkpaAIAocCcwE7gJ4A.YAAAAAAAAAAA&UGDPR=1&DLg=es&ApStURL=https%3A%2F%2Ftivify.tv&DAdID=%22ddb597db-83c0-4227-877d-c79a8ddd403e%22&DAdIDT=sessionid&UUA=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F132.0.0.0+Safari%2F537.36+OPR%2F117.0.0.0&UIP=&ApNm=Tivify&ApV=4.3.3&DT=browser&DMk=WEBAPP&DMdl=Opera&ApBdl=tivify.tv&DID=%22ddb597db-83c0-4227-877d-c79a8ddd403e%22&tvfy_env=desktop&lmt=&ic=IAB1-5&content_genre=Movies&language=es&rating=TV-14&requestuid=dc657287-c9b5-4e19-beb4-11daab9502c3
 
-#EXTINF:-1 tvg-id="A3P_Clasicos.TV" tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" group-title="Series 24/7" tvg-name="Atresplayer Clásicos",Atresplayer Clásicos
+#EXTINF:-1 tvg-id="Clásicos atresplayer" tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" group-title="Series 24/7" tvg-name="Clásicos atresplayer",Atresplayer Clásicos
 https://fast-channels.atresmedia.com/648ef12c2bfab0e4507e0d61/648ef12c2bfab0e4507e0d61.m3u8
 
-#EXTINF:-1 tvg-id="A3P_Comedia.TV" tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" group-title="Series 24/7" tvg-name="Atresplayer Comedia",Atresplayer Comedia
+#EXTINF:-1 tvg-id="Comedia atresplayer" tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" group-title="Series 24/7" tvg-name="Comedia atresplayer",Atresplayer Comedia
 https://fast-channels.atresmedia.com/648ef23d2bfab0e4557e0d61/648ef23d2bfab0e4557e0d61.m3u8
 
-#EXTINF:-1 tvg-id="A3P_AquiNoHayQ.TV" tvg-logo="https://graph.facebook.com/AQUINHQV/picture?width=200&height=200" group-title="Series 24/7" tvg-name="Aquí no hay quién viva",Aquí no hay quién viva
+#EXTINF:-1 tvg-id="Aquí no hay quién viva" tvg-logo="https://graph.facebook.com/AQUINHQV/picture?width=200&height=200" group-title="Series 24/7" tvg-name="Aquí no hay quién viva",Aquí no hay quién viva
 https://fast-channels.atresmedia.com/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc.m3u8
 
 #EXTINF:-1 tvg-id="RTVE_Estrellas.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Series 24/7" tvg-name="RTVE 4 Estrellas",RTVE 4 Estrellas
 https://ztnr.rtve.es/ztnr/2472038.m3u8
 
-#EXTINF:-1 tvg-id="RTVE_Cuentame.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Series 24/7" tvg-name="RTVE Cuéntame",RTVE Cuéntame
+#EXTINF:-1 tvg-id="Cuéntame" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Series 24/7" tvg-name="RTVE Cuéntame",RTVE Cuéntame
 https://ztnr.rtve.es/ztnr/6909843.m3u8
 
-#EXTINF:-1 tvg-id="RTVE_Promesa.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Series 24/7" tvg-name="RTVE La promesa",RTVE La promesa
+#EXTINF:-1 tvg-id="La Promesa" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Series 24/7" tvg-name="La promesa",RTVE La promesa
 https://ztnr.rtve.es/ztnr/2472039.m3u8
 
-#EXTINF:-1 tvg-id="A3P_FisicaOQuimica.TV" tvg-logo="https://graph.facebook.com/fisicaoquimica/picture?width=200&height=200" group-title="Series 24/7" tvg-name="Física o química",Física o química
+#EXTINF:-1 tvg-id="FoQ" tvg-logo="https://graph.facebook.com/fisicaoquimica/picture?width=200&height=200" group-title="Series 24/7" tvg-name="FoQ",Física o química
 https://fast-channels.atresmedia.com/648ef50a2bfab0e4607e0d61/648ef50a2bfab0e4607e0d61.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/som3Cat/picture?width=200&height=200" group-title="Series 24/7" tvg-name="3CAT Plats bruts",3CAT Plats bruts
