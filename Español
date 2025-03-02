@@ -15,7 +15,7 @@ https://directes-tv-es.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8
 #EXTINF:-1 tvg-id="SX3" tvg-logo="https://graph.facebook.com/SomSX3/picture?width=200&height=200" group-title="Autonomica" group-title="Kids" tvg-name="SX3",SX3 GEO
 https://directes-tv-es.3catdirectes.cat/live-content/super3-hls/master.m3u8
 
-#EXTINF:-1 tvg-id="Xarxa_Televisio_Hospitalet.TV" tvg-logo="https://graph.facebook.com/lhdigital/picture?width=200&height=200" group-title="Autonomica" tvg-name="TV L'Hospitalet",TV L'Hospitalet
+#EXTINF:-1 tvg-id="Televisió de l'Hospitalet" tvg-logo="https://graph.facebook.com/lhdigital/picture?width=200&height=200" group-title="Autonomica" tvg-name="TV L'Hospitalet",TV L'Hospitalet
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 CrKey/1.44.191160
 #EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
 https://liveingesta318.cdnmedia.tv/tvhospitaletlive/smil:tvhospitalet.smil/playlist.m3u8?DVR
